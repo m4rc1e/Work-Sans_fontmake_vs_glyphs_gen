@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute.sc" format="2">
+  <advance width="661"/>
+  <anchor x="334" y="560" name="top"/>
+  <anchor x="567" y="0" name="ogonek"/>
+  <anchor x="352" y="0" name="bottom"/>
+  <anchor x="523" y="0" name="bottomC"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="acutecmb.cap" xOffset="334" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

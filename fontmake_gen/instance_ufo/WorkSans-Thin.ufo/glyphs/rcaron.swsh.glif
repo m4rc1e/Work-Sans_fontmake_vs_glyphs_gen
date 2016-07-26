@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron.swsh" format="2">
+  <advance width="418"/>
+  <anchor x="101" y="0" name="bottomC"/>
+  <anchor x="195" y="500" name="top"/>
+  <anchor x="101" y="0" name="ogonek"/>
+  <anchor x="95" y="0" name="bottom"/>
+  <outline>
+    <component base="r.swsh"/>
+    <component base="caron" xOffset="-55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

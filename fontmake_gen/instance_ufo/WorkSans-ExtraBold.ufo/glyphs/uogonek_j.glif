@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek_j" format="2">
+  <advance width="918"/>
+  <anchor x="725" y="-210" name="bottomC"/>
+  <anchor x="769" y="713" name="top"/>
+  <anchor x="746" y="-204" name="ogonek"/>
+  <anchor x="725" y="-210" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="406" y="233" type="curve"/>
+      <point x="369" y="238" type="line"/>
+      <point x="369" y="174"/>
+      <point x="342" y="141"/>
+      <point x="301" y="141" type="curve" smooth="yes"/>
+      <point x="267" y="141"/>
+      <point x="249" y="159"/>
+      <point x="249" y="214" type="curve" smooth="yes"/>
+      <point x="249" y="500" type="line"/>
+      <point x="47" y="500" type="line"/>
+      <point x="47" y="164" type="line" smooth="yes"/>
+      <point x="47" y="40"/>
+      <point x="110" y="-10"/>
+      <point x="213" y="-10" type="curve" smooth="yes"/>
+      <point x="331" y="-10"/>
+      <point x="406" y="73"/>
+    </contour>
+    <contour>
+      <point x="535" y="-194" type="curve"/>
+      <point x="550" y="-95" type="line"/>
+      <point x="537" y="-103"/>
+      <point x="520" y="-106"/>
+      <point x="499" y="-106" type="curve" smooth="yes"/>
+      <point x="473" y="-106"/>
+      <point x="458" y="-91"/>
+      <point x="458" y="-69" type="curve" smooth="yes"/>
+      <point x="458" y="-37"/>
+      <point x="486" y="-8"/>
+      <point x="571" y="0" type="curve"/>
+      <point x="488" y="25" type="line"/>
+      <point x="381" y="17"/>
+      <point x="322" y="-32"/>
+      <point x="322" y="-104" type="curve" smooth="yes"/>
+      <point x="322" y="-168"/>
+      <point x="368" y="-215"/>
+      <point x="449" y="-215" type="curve" smooth="yes"/>
+      <point x="484" y="-215"/>
+      <point x="514" y="-209"/>
+    </contour>
+    <contour>
+      <point x="571" y="0" type="line"/>
+      <point x="571" y="145" type="line"/>
+      <point x="571" y="500" type="line"/>
+      <point x="369" y="500" type="line"/>
+      <point x="369" y="208" type="line"/>
+      <point x="383" y="143" type="line"/>
+      <point x="393" y="-12" type="line"/>
+    </contour>
+    <component base="j.ogonek" xOffset="574"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>uogonek</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j</string>
+    </dict>
+  </lib>
+</glyph>

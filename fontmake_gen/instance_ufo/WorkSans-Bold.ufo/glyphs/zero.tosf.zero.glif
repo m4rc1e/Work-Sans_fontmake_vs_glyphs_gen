@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tosf.zero" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="451" y="475" type="line"/>
+      <point x="380" y="514" type="line"/>
+      <point x="164" y="78" type="line"/>
+      <point x="239" y="46" type="line"/>
+    </contour>
+    <component base="zero.tosf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero.tosf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero.tosf</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

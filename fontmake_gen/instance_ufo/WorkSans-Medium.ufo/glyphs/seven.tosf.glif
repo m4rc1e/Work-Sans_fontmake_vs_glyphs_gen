@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tosf" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="54" y="472" type="line"/>
+      <point x="488" y="472" type="line"/>
+      <point x="468" y="494" type="line"/>
+      <point x="296" y="325"/>
+      <point x="215" y="120"/>
+      <point x="215" y="-100" type="curve"/>
+      <point x="322" y="-100" type="line"/>
+      <point x="322" y="117"/>
+      <point x="385" y="300"/>
+      <point x="552" y="471" type="curve"/>
+      <point x="552" y="560" type="line"/>
+      <point x="54" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

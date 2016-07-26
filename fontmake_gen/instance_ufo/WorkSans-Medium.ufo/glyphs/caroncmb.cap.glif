@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncmb.cap" format="2">
+  <anchor x="0" y="660" name="_top"/>
+  <outline>
+    <contour>
+      <point x="76" y="897" type="line"/>
+      <point x="0" y="795" type="line"/>
+      <point x="-76" y="897" type="line"/>
+      <point x="-163" y="897" type="line"/>
+      <point x="-56" y="737" type="line"/>
+      <point x="56" y="737" type="line"/>
+      <point x="163" y="897" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 10:24:18</string>
+    </dict>
+  </lib>
+</glyph>

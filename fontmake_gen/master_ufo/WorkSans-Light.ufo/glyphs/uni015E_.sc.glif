@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni015E.sc" format="2">
+  <advance width="530"/>
+  <anchor x="278" y="-210" name="bottom"/>
+  <anchor x="244" y="-197" name="bottomC"/>
+  <anchor x="292" y="-197" name="ogonek"/>
+  <anchor x="259" y="560" name="top"/>
+  <outline>
+    <component base="s.sc"/>
+    <component base="cedilla" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 10:55:42</string>
+    </dict>
+  </lib>
+</glyph>

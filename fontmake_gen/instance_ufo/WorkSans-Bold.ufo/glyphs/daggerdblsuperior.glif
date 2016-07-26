@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdblsuperior" format="2">
+  <advance width="484"/>
+  <outline>
+    <contour>
+      <point x="33" y="603" type="line"/>
+      <point x="33" y="511" type="line"/>
+      <point x="450" y="511" type="line"/>
+      <point x="450" y="603" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="730" type="line"/>
+      <point x="180" y="730" type="line"/>
+      <point x="180" y="209" type="line"/>
+      <point x="303" y="209" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="428" type="line"/>
+      <point x="33" y="428" type="line"/>
+      <point x="33" y="336" type="line"/>
+      <point x="450" y="336" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

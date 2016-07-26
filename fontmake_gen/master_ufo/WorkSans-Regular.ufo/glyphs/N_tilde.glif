@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde" format="2">
+  <advance width="734"/>
+  <unicode hex="00D1"/>
+  <anchor x="582" y="0" name="bottomC"/>
+  <anchor x="371" y="660" name="top"/>
+  <anchor x="626" y="0" name="ogonek"/>
+  <anchor x="397" y="0" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="tilde" xOffset="120" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

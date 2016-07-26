@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0163.swsh" format="2">
+  <advance width="541"/>
+  <anchor x="159" y="250" name="center"/>
+  <anchor x="253" y="0" name="bottom"/>
+  <anchor x="184" y="730" name="top"/>
+  <anchor x="290" y="0" name="bottomC"/>
+  <anchor x="337" y="767" name="topright"/>
+  <anchor x="393" y="13" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="313" y="-74" type="curve" smooth="yes"/>
+      <point x="313" y="-106"/>
+      <point x="290" y="-124"/>
+      <point x="255" y="-124" type="curve" smooth="yes"/>
+      <point x="225" y="-124"/>
+      <point x="201" y="-112"/>
+      <point x="186" y="-96" type="curve"/>
+      <point x="146" y="-175" type="line"/>
+      <point x="172" y="-199"/>
+      <point x="208" y="-215"/>
+      <point x="271" y="-215" type="curve" smooth="yes"/>
+      <point x="353" y="-215"/>
+      <point x="414" y="-176"/>
+      <point x="414" y="-97" type="curve" smooth="yes"/>
+      <point x="414" y="-33"/>
+      <point x="358" y="17"/>
+      <point x="251" y="42" type="curve"/>
+      <point x="215" y="6" type="line"/>
+      <point x="290" y="-18"/>
+      <point x="313" y="-37"/>
+    </contour>
+    <component base="t.swsh"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

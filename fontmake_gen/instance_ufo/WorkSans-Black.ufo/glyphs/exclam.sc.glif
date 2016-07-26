@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam.sc" format="2">
+  <advance width="308"/>
+  <outline>
+    <contour>
+      <point x="38" y="560" type="line"/>
+      <point x="38" y="474" type="line"/>
+      <point x="62" y="207" type="line"/>
+      <point x="246" y="207" type="line"/>
+      <point x="270" y="474" type="line"/>
+      <point x="270" y="560" type="line"/>
+    </contour>
+    <component base="period" xScale="0.9" yScale="0.85" xOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>origin</key>
+          <string>{0, 0}</string>
+          <key>target</key>
+          <string>{0, 5}</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>245</integer>
+          <key>y</key>
+          <integer>207</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

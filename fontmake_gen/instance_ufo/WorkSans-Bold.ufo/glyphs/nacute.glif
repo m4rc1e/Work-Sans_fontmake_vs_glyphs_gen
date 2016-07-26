@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="2">
+  <advance width="620"/>
+  <unicode hex="0144"/>
+  <anchor x="477" y="0" name="bottomC"/>
+  <anchor x="313" y="500" name="top"/>
+  <anchor x="562" y="0" name="ogonek"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <outline>
+    <component base="n"/>
+    <component base="acute" xOffset="53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

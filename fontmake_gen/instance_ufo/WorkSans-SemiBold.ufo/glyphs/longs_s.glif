@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_s" format="2">
+  <advance width="803"/>
+  <anchor x="204" y="0" name="ogonek_1"/>
+  <anchor x="667" y="14" name="ogonek_2"/>
+  <anchor x="135" y="0" name="bottomC_1"/>
+  <anchor x="543" y="0" name="bottomC_2"/>
+  <anchor x="150" y="0" name="bottom_1"/>
+  <anchor x="549" y="0" name="bottom_2"/>
+  <anchor x="200" y="719" name="top_1"/>
+  <anchor x="543" y="500" name="top_2"/>
+  <outline>
+    <component base="longs"/>
+    <component base="s" xOffset="272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>longs</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>s</string>
+    </dict>
+  </lib>
+</glyph>

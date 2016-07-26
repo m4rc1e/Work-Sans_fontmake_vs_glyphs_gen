@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="2">
+  <advance width="626"/>
+  <unicode hex="0118"/>
+  <anchor x="329" y="-210" name="bottom"/>
+  <anchor x="533" y="-210" name="bottomC"/>
+  <anchor x="551" y="-210" name="ogonek"/>
+  <anchor x="313" y="660" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="ogonek.E" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 07:39:21</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=I</string>
+    </dict>
+  </lib>
+</glyph>

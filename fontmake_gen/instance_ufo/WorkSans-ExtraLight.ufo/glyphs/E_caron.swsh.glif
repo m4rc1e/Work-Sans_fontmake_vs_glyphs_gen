@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron.swsh" format="2">
+  <advance width="808"/>
+  <anchor x="536" y="660" name="top"/>
+  <anchor x="774" y="0" name="ogonek"/>
+  <anchor x="536" y="0" name="bottom"/>
+  <anchor x="536" y="0" name="bottomC"/>
+  <outline>
+    <component base="E.swsh"/>
+    <component base="caroncmb.cap" xOffset="536"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

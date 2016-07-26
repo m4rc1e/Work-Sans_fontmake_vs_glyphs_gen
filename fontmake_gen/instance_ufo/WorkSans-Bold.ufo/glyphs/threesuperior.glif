@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="2">
+  <advance width="379"/>
+  <unicode hex="00B3"/>
+  <anchor x="183" y="530" name="_indexring"/>
+  <outline>
+    <contour>
+      <point x="19" y="626" type="curve"/>
+      <point x="129" y="589" type="line"/>
+      <point x="133" y="626"/>
+      <point x="153" y="641"/>
+      <point x="182" y="641" type="curve" smooth="yes"/>
+      <point x="210" y="641"/>
+      <point x="226" y="627"/>
+      <point x="226" y="600" type="curve" smooth="yes"/>
+      <point x="226" y="574"/>
+      <point x="210" y="560"/>
+      <point x="179" y="560" type="curve" smooth="yes"/>
+      <point x="160" y="560" type="line"/>
+      <point x="160" y="495" type="line"/>
+      <point x="183" y="495" type="line" smooth="yes"/>
+      <point x="217" y="495"/>
+      <point x="233" y="483"/>
+      <point x="233" y="459" type="curve" smooth="yes"/>
+      <point x="233" y="433"/>
+      <point x="214" y="416"/>
+      <point x="183" y="416" type="curve" smooth="yes"/>
+      <point x="148" y="416"/>
+      <point x="127" y="432"/>
+      <point x="124" y="470" type="curve"/>
+      <point x="9" y="428" type="line"/>
+      <point x="34" y="355"/>
+      <point x="96" y="327"/>
+      <point x="192" y="327" type="curve" smooth="yes"/>
+      <point x="293" y="327"/>
+      <point x="355" y="373"/>
+      <point x="355" y="445" type="curve" smooth="yes"/>
+      <point x="355" y="499"/>
+      <point x="320" y="529"/>
+      <point x="263" y="530" type="curve"/>
+      <point x="263" y="533" type="line"/>
+      <point x="312" y="536"/>
+      <point x="347" y="568"/>
+      <point x="347" y="622" type="curve" smooth="yes"/>
+      <point x="347" y="693"/>
+      <point x="291" y="735"/>
+      <point x="188" y="735" type="curve" smooth="yes"/>
+      <point x="102" y="735"/>
+      <point x="32" y="703"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 28}</string>
+          <key>target</key>
+          <string>{0, 21}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 41}</string>
+          <key>target</key>
+          <string>{0, 6}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

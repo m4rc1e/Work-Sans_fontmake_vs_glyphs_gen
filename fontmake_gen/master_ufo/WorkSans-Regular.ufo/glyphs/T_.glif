@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+  <advance width="604"/>
+  <unicode hex="0054"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="331" y="0" name="bottomC"/>
+  <anchor x="302" y="330" name="center"/>
+  <anchor x="342" y="0" name="ogonek"/>
+  <anchor x="302" y="660" name="top"/>
+  <outline>
+    <contour>
+      <point x="262" y="660" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="342" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="660" type="line"/>
+      <point x="32" y="585" type="line"/>
+      <point x="572" y="585" type="line"/>
+      <point x="572" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 11:05:46</string>
+    </dict>
+  </lib>
+</glyph>

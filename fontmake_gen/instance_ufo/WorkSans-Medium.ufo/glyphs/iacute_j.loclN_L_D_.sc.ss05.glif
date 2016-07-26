@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute_j.loclNLD.sc.ss05" format="2">
+  <advance width="577"/>
+  <outline>
+    <component base="ij.sc.ss05"/>
+    <component base="acutecmb.cap" xOffset="142" yOffset="-100"/>
+    <component base="acutecmb.cap" xOffset="452" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/12/09 11:19:39</string>
+    </dict>
+  </lib>
+</glyph>

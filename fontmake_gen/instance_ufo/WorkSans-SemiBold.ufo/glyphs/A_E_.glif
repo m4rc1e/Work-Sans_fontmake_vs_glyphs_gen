@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="2">
+  <advance width="935"/>
+  <unicode hex="00C6"/>
+  <anchor x="497" y="660" name="top"/>
+  <anchor x="897" y="0" name="ogonek"/>
+  <anchor x="497" y="0" name="bottom"/>
+  <anchor x="523" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="321" y="660" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="439" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="301" type="line"/>
+      <point x="148" y="202" type="line"/>
+      <point x="495" y="202" type="line"/>
+      <point x="495" y="301" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="108" type="line"/>
+      <point x="491" y="0" type="line"/>
+      <point x="897" y="0" type="line"/>
+      <point x="897" y="108" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="660" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="563" y="0" type="line"/>
+      <point x="563" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="384" type="line"/>
+      <point x="491" y="281" type="line"/>
+      <point x="807" y="281" type="line"/>
+      <point x="807" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="660" type="line"/>
+      <point x="328" y="555" type="line"/>
+      <point x="484" y="555" type="line"/>
+      <point x="512" y="552" type="line"/>
+      <point x="883" y="552" type="line"/>
+      <point x="883" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/16 06:47:41</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

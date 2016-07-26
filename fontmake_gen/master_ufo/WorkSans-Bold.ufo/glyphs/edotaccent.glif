@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent" format="2">
+  <advance width="583"/>
+  <unicode hex="0117"/>
+  <anchor x="307" y="0" name="bottomC"/>
+  <anchor x="296" y="500" name="top"/>
+  <anchor x="348" y="36" name="ogonek"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <outline>
+    <component base="e"/>
+    <component base="dotaccent" xOffset="46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

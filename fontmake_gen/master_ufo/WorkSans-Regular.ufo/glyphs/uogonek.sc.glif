@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek.sc" format="2">
+  <advance width="647"/>
+  <anchor x="349" y="-210" name="bottom"/>
+  <anchor x="349" y="-210" name="bottomC"/>
+  <anchor x="403" y="-210" name="ogonek"/>
+  <anchor x="323" y="560" name="top"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="ogonek" xOffset="89" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 12:51:09</string>
+    </dict>
+  </lib>
+</glyph>

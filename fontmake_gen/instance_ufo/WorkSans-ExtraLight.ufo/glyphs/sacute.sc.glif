@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sacute.sc" format="2">
+  <advance width="539"/>
+  <anchor x="265" y="560" name="top"/>
+  <anchor x="349" y="0" name="ogonek"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <anchor x="258" y="0" name="bottomC"/>
+  <outline>
+    <component base="s.sc"/>
+    <component base="acutecmb.cap" xOffset="265" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

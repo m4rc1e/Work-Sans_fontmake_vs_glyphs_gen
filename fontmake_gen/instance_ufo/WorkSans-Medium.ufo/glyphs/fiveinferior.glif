@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveinferior" format="2">
+  <advance width="368"/>
+  <unicode hex="2085"/>
+  <outline>
+    <component base="fivesuperior" yOffset="-522"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>fivesuperior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>fivesuperior</string>
+    </dict>
+  </lib>
+</glyph>

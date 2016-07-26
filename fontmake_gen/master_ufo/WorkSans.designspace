@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <sources>
+        <source familyname="Work Sans" filename="WorkSans-Light.ufo" name="Work Sans Light" stylename="Light">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="16.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+        <source familyname="Work Sans" filename="WorkSans-Regular.ufo" name="Work Sans Regular" stylename="Regular">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="80.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+        <source familyname="Work Sans" filename="WorkSans-Bold.ufo" name="Work Sans Bold" stylename="Bold">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="230.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Thin.ufo" name="Work Sans Thin" stylename="Thin">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="16.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-ExtraLight.ufo" name="Work Sans ExtraLight" stylename="ExtraLight">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="28.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Light.ufo" name="Work Sans Light" stylename="Light">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="50.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Regular.ufo" name="Work Sans Regular" stylename="Regular">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="80.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Medium.ufo" name="Work Sans Medium" stylename="Medium">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="107.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-SemiBold.ufo" name="Work Sans SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="137.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Bold.ufo" name="Work Sans Bold" stylename="Bold">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="170.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-ExtraBold.ufo" name="Work Sans ExtraBold" stylename="ExtraBold">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="202.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Black.ufo" name="Work Sans Black" stylename="Black">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="230.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Thin.ufo" name="Work Sans Thin" stylename="Thin">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="16.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-ExtraLight.ufo" name="Work Sans ExtraLight" stylename="ExtraLight">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="28.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Light.ufo" name="Work Sans Light" stylename="Light">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="50.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Regular.ufo" name="Work Sans Regular" stylename="Regular">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="80.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Medium.ufo" name="Work Sans Medium" stylename="Medium">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="107.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-SemiBold.ufo" name="Work Sans SemiBold" stylename="SemiBold">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="137.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Bold.ufo" name="Work Sans Bold" stylename="Bold">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="170.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-ExtraBold.ufo" name="Work Sans ExtraBold" stylename="ExtraBold">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="202.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Work Sans" filename="../instance_ufo/WorkSans-Black.ufo" name="Work Sans Black" stylename="Black">
+            <location>
+                <dimension name="width" xvalue="5.000000" />
+                <dimension name="weight" xvalue="230.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+    </instances>
+</designspace>

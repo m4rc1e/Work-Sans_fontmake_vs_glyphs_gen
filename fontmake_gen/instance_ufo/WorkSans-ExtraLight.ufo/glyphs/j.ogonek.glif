@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.ogonek" format="2">
+  <advance width="219"/>
+  <anchor x="79" y="-210" name="bottomC"/>
+  <anchor x="137" y="646" name="top"/>
+  <anchor x="106" y="-204" name="ogonek"/>
+  <anchor x="79" y="-210" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="108" y="627" type="curve" smooth="yes"/>
+      <point x="108" y="610"/>
+      <point x="120" y="598"/>
+      <point x="137" y="598" type="curve" smooth="yes"/>
+      <point x="154" y="598"/>
+      <point x="166" y="610"/>
+      <point x="166" y="627" type="curve" smooth="yes"/>
+      <point x="166" y="644"/>
+      <point x="154" y="656"/>
+      <point x="137" y="656" type="curve" smooth="yes"/>
+      <point x="120" y="656"/>
+      <point x="108" y="644"/>
+    </contour>
+    <component base="jdotless.ogonek"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/20 21:24:58</string>
+    </dict>
+  </lib>
+</glyph>

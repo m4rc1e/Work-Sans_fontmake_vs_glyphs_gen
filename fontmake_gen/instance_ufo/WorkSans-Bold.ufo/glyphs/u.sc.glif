@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc" format="2">
+  <advance width="657"/>
+  <anchor x="328" y="560" name="top"/>
+  <anchor x="461" y="14" name="ogonek"/>
+  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="329" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="428" y="560" type="line"/>
+      <point x="428" y="230" type="line" smooth="yes"/>
+      <point x="428" y="156"/>
+      <point x="397" y="122"/>
+      <point x="328" y="122" type="curve" smooth="yes"/>
+      <point x="261" y="122"/>
+      <point x="229" y="156"/>
+      <point x="229" y="230" type="curve" smooth="yes"/>
+      <point x="229" y="560" type="line"/>
+      <point x="59" y="560" type="line"/>
+      <point x="59" y="234" type="line" smooth="yes"/>
+      <point x="59" y="76"/>
+      <point x="147" y="-8"/>
+      <point x="328" y="-8" type="curve" smooth="yes"/>
+      <point x="510" y="-8"/>
+      <point x="597" y="76"/>
+      <point x="597" y="234" type="curve" smooth="yes"/>
+      <point x="597" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 12:47:26</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="885"/>
+  <unicode hex="0132"/>
+  <anchor x="205" y="0" name="ogonek_1"/>
+  <anchor x="630" y="0" name="ogonek_2"/>
+  <anchor x="151" y="0" name="bottomC_1"/>
+  <anchor x="568" y="0" name="bottomC_2"/>
+  <anchor x="151" y="0" name="bottom_1"/>
+  <anchor x="571" y="0" name="bottom_2"/>
+  <anchor x="151" y="660" name="top_1"/>
+  <anchor x="742" y="660" name="top_2"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="303"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

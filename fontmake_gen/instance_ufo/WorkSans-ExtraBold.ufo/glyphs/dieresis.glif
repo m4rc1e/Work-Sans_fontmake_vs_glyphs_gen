@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="500"/>
+  <unicode hex="00A8"/>
+  <anchor x="251" y="500" name="_top"/>
+  <outline>
+    <contour>
+      <point x="41" y="631" type="curve" smooth="yes"/>
+      <point x="41" y="577"/>
+      <point x="76" y="546"/>
+      <point x="135" y="546" type="curve" smooth="yes"/>
+      <point x="196" y="546"/>
+      <point x="231" y="577"/>
+      <point x="231" y="631" type="curve" smooth="yes"/>
+      <point x="231" y="684"/>
+      <point x="196" y="716"/>
+      <point x="135" y="716" type="curve" smooth="yes"/>
+      <point x="76" y="716"/>
+      <point x="41" y="684"/>
+    </contour>
+    <contour>
+      <point x="270" y="631" type="curve" smooth="yes"/>
+      <point x="270" y="577"/>
+      <point x="305" y="546"/>
+      <point x="364" y="546" type="curve" smooth="yes"/>
+      <point x="425" y="546"/>
+      <point x="460" y="577"/>
+      <point x="460" y="631" type="curve" smooth="yes"/>
+      <point x="460" y="684"/>
+      <point x="425" y="716"/>
+      <point x="364" y="716" type="curve" smooth="yes"/>
+      <point x="305" y="716"/>
+      <point x="270" y="684"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>367</integer>
+          <key>y</key>
+          <integer>602</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

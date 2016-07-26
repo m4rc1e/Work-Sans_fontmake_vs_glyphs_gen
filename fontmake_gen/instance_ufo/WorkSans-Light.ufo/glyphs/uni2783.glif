@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2783" format="2">
+  <advance width="910"/>
+  <unicode hex="2783"/>
+  <anchor x="455" y="330" name="indexring"/>
+  <outline>
+    <component base="indexring"/>
+    <component base="foursuperior" xOffset="264" yOffset="-197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>indexring</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>indexring</string>
+    </dict>
+  </lib>
+</glyph>

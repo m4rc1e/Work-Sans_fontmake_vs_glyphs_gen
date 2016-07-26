@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F.swsh" format="2">
+  <advance width="849"/>
+  <anchor x="555" y="660" name="top"/>
+  <anchor x="461" y="0" name="ogonek"/>
+  <anchor x="386" y="0" name="bottom"/>
+  <anchor x="405" y="0" name="bottomC"/>
+  <outline>
+    <component base="__swash_topleft" xOffset="-48"/>
+    <component base="F" xOffset="237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 19:43:41</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>F</string>
+    </dict>
+  </lib>
+</glyph>

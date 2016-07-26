@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="627"/>
+  <unicode hex="0111"/>
+  <anchor x="312" y="250" name="center"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="477" y="706" name="top"/>
+  <anchor x="239" y="0" name="bottomC"/>
+  <anchor x="638" y="706" name="topright"/>
+  <anchor x="308" y="11" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="256" y="638" type="line"/>
+      <point x="256" y="528" type="line"/>
+      <point x="655" y="528" type="line"/>
+      <point x="655" y="638" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:15:49</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endashsuperior" format="2">
+  <advance width="487"/>
+  <outline>
+    <contour>
+      <point x="51" y="592" type="line"/>
+      <point x="51" y="472" type="line"/>
+      <point x="436" y="472" type="line"/>
+      <point x="436" y="592" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

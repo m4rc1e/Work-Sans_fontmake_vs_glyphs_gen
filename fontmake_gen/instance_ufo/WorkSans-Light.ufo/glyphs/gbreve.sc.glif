@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve.sc" format="2">
+  <advance width="627"/>
+  <anchor x="324" y="560" name="top"/>
+  <anchor x="388" y="0" name="ogonek"/>
+  <anchor x="349" y="0" name="bottom"/>
+  <anchor x="325" y="0" name="bottomC"/>
+  <outline>
+    <component base="g.sc"/>
+    <component base="breve" xOffset="72" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

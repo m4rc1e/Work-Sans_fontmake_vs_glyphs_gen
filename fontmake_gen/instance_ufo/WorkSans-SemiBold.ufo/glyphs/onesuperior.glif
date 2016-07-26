@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="2">
+  <advance width="277"/>
+  <unicode hex="00B9"/>
+  <anchor x="155" y="527" name="_indexring"/>
+  <outline>
+    <contour>
+      <point x="232" y="730" type="line"/>
+      <point x="143" y="730" type="line"/>
+      <point x="133" y="676"/>
+      <point x="128" y="602"/>
+      <point x="128" y="562" type="curve" smooth="yes"/>
+      <point x="128" y="333" type="line"/>
+      <point x="232" y="333" type="line"/>
+      <point x="232" y="638" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="709" type="curve"/>
+      <point x="143" y="730" type="line"/>
+      <point x="121" y="701"/>
+      <point x="56" y="669"/>
+      <point x="16" y="663" type="curve"/>
+      <point x="16" y="577" type="line"/>
+      <point x="97" y="585"/>
+      <point x="175" y="659"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 1}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

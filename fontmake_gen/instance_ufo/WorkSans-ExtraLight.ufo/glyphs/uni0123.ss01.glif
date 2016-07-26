@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0123.ss01" format="2">
+  <advance width="593"/>
+  <anchor x="283" y="500" name="top"/>
+  <anchor x="395" y="-190" name="ogonek"/>
+  <anchor x="289" y="-210" name="bottom"/>
+  <anchor x="278" y="-210" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="336" y="778" type="line"/>
+      <point x="274" y="587" type="line"/>
+      <point x="305" y="587" type="line"/>
+      <point x="358" y="778" type="line"/>
+    </contour>
+    <component base="g.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g.ss01</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>g.ss01</string>
+    </dict>
+  </lib>
+</glyph>

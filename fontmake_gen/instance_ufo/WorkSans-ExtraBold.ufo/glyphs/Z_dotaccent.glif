@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent" format="2">
+  <advance width="636"/>
+  <unicode hex="017B"/>
+  <anchor x="306" y="0" name="bottomC"/>
+  <anchor x="325" y="660" name="top"/>
+  <anchor x="613" y="0" name="ogonek"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotaccent" xOffset="75" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

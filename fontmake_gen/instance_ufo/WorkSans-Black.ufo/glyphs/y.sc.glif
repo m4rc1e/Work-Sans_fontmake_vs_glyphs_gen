@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.sc" format="2">
+  <advance width="640"/>
+  <anchor x="435" y="0" name="bottomC"/>
+  <anchor x="320" y="560" name="top"/>
+  <anchor x="435" y="0" name="ogonek"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="435" y="200" type="line"/>
+      <point x="643" y="560" type="line"/>
+      <point x="421" y="560" type="line"/>
+      <point x="358" y="429" type="line"/>
+      <point x="324" y="348" type="line"/>
+      <point x="290" y="429" type="line"/>
+      <point x="227" y="560" type="line"/>
+      <point x="-3" y="560" type="line"/>
+      <point x="205" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/04/09 14:09:37</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>240</integer>
+          <key>y</key>
+          <integer>429</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

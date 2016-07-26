@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.ss02" format="2">
+  <advance width="270"/>
+  <anchor x="135" y="0" name="bottomC"/>
+  <anchor x="135" y="730" name="top"/>
+  <anchor x="175" y="0" name="ogonek"/>
+  <anchor x="255" y="730" name="topright"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="acutecmb.asc" xOffset="124"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/01/03 05:44:30</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>95</integer>
+          <key>y</key>
+          <integer>730</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

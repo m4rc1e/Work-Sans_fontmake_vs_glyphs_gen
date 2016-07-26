@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+  <advance width="652"/>
+  <unicode hex="00DE"/>
+  <anchor x="155" y="660" name="top"/>
+  <anchor x="224" y="0" name="ogonek"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="155" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="155" y="553" type="line"/>
+      <point x="155" y="444" type="line"/>
+      <point x="342" y="444" type="line" smooth="yes"/>
+      <point x="425" y="444"/>
+      <point x="467" y="410"/>
+      <point x="467" y="337" type="curve" smooth="yes"/>
+      <point x="467" y="264"/>
+      <point x="425" y="230"/>
+      <point x="342" y="230" type="curve" smooth="yes"/>
+      <point x="155" y="230" type="line"/>
+      <point x="155" y="121" type="line"/>
+      <point x="352" y="121" type="line" smooth="yes"/>
+      <point x="518" y="121"/>
+      <point x="608" y="197"/>
+      <point x="607" y="337" type="curve" smooth="yes"/>
+      <point x="608" y="478"/>
+      <point x="518" y="553"/>
+      <point x="352" y="553" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="86" y="660" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 18:39:07</string>
+    </dict>
+  </lib>
+</glyph>

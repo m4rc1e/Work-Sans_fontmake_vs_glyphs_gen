@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron" format="2">
+  <advance width="201"/>
+  <unicode hex="012B"/>
+  <anchor x="101" y="500" name="top"/>
+  <anchor x="115" y="0" name="ogonek"/>
+  <anchor x="101" y="0" name="bottom"/>
+  <anchor x="107" y="0" name="bottomC"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="macron" xScale="0.5425" xOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

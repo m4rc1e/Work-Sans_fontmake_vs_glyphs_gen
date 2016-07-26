@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat.sc" format="2">
+  <advance width="687"/>
+  <anchor x="324" y="0" name="bottom"/>
+  <anchor x="331" y="0" name="bottomC"/>
+  <anchor x="357" y="0" name="ogonek"/>
+  <anchor x="324" y="560" name="top"/>
+  <anchor x="102" y="58" name="center"/>
+  <outline>
+    <contour>
+      <point x="0" y="320" type="line"/>
+      <point x="0" y="236" type="line"/>
+      <point x="376" y="236" type="line"/>
+      <point x="376" y="320" type="line"/>
+    </contour>
+    <component base="d.sc" xOffset="19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 05:37:28</string>
+    </dict>
+  </lib>
+</glyph>

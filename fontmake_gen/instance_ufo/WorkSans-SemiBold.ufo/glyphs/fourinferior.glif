@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourinferior" format="2">
+  <advance width="382"/>
+  <unicode hex="2084"/>
+  <outline>
+    <component base="foursuperior" yOffset="-522"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>foursuperior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>foursuperior</string>
+    </dict>
+  </lib>
+</glyph>

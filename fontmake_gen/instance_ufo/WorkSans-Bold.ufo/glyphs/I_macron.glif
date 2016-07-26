@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Imacron" format="2">
+  <advance width="318"/>
+  <unicode hex="012A"/>
+  <anchor x="159" y="0" name="bottomC"/>
+  <anchor x="159" y="660" name="top"/>
+  <anchor x="245" y="0" name="ogonek"/>
+  <anchor x="159" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="17" y="834" type="line"/>
+      <point x="17" y="729" type="line"/>
+      <point x="300" y="729" type="line"/>
+      <point x="300" y="834" type="line"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 1}</string>
+          <key>target</key>
+          <string>{0, 0}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

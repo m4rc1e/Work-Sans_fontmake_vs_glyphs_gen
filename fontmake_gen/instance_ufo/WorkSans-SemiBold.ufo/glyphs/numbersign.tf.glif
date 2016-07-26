@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.tf" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="427" y="660" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="515" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="257" type="line"/>
+      <point x="16" y="170" type="line"/>
+      <point x="548" y="170" type="line"/>
+      <point x="548" y="257" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="660" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="286" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="493" type="line"/>
+      <point x="55" y="406" type="line"/>
+      <point x="588" y="406" type="line"/>
+      <point x="588" y="493" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

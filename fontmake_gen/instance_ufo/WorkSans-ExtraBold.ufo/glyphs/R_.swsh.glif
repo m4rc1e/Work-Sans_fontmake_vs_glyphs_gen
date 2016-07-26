@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R.swsh" format="2">
+  <advance width="956"/>
+  <anchor x="590" y="660" name="top"/>
+  <anchor x="953" y="0" name="ogonek"/>
+  <anchor x="621" y="0" name="bottom"/>
+  <anchor x="851" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="657" y="229" type="line" smooth="yes"/>
+      <point x="825" y="229"/>
+      <point x="915" y="303"/>
+      <point x="915" y="444" type="curve" smooth="yes"/>
+      <point x="915" y="586"/>
+      <point x="825" y="660"/>
+      <point x="657" y="660" type="curve" smooth="yes"/>
+      <point x="455" y="660" type="line"/>
+      <point x="455" y="511" type="line"/>
+      <point x="618" y="511" type="line" smooth="yes"/>
+      <point x="684" y="511"/>
+      <point x="710" y="490"/>
+      <point x="710" y="439" type="curve" smooth="yes"/>
+      <point x="710" y="388"/>
+      <point x="684" y="368"/>
+      <point x="618" y="368" type="curve" smooth="yes"/>
+      <point x="455" y="368" type="line"/>
+      <point x="455" y="229" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="134" type="curve" smooth="yes"/>
+      <point x="519" y="210" type="line"/>
+      <point x="319" y="210" type="line"/>
+      <point x="319" y="127" type="line" smooth="yes"/>
+      <point x="319" y="73"/>
+      <point x="286" y="38"/>
+      <point x="236" y="38" type="curve" smooth="yes"/>
+      <point x="184" y="38"/>
+      <point x="152" y="58"/>
+      <point x="127" y="108" type="curve"/>
+      <point x="54" y="-10" type="line"/>
+      <point x="94" y="-78"/>
+      <point x="164" y="-110"/>
+      <point x="265" y="-110" type="curve" smooth="yes"/>
+      <point x="416" y="-110"/>
+      <point x="519" y="-44"/>
+    </contour>
+    <contour>
+      <point x="519" y="200" type="line"/>
+      <point x="519" y="660" type="line"/>
+      <point x="319" y="660" type="line"/>
+      <point x="319" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="953" y="0" type="line"/>
+      <point x="745" y="325" type="line"/>
+      <point x="569" y="289" type="line"/>
+      <point x="730" y="0" type="line"/>
+    </contour>
+    <component base="__swash_topleft" xOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 19:49:32</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>F.swsh</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>R</string>
+    </dict>
+  </lib>
+</glyph>

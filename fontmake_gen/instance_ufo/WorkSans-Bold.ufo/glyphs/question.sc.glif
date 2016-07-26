@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.sc" format="2">
+  <advance width="528"/>
+  <outline>
+    <contour>
+      <point x="12" y="419" type="curve"/>
+      <point x="169" y="368" type="line"/>
+      <point x="175" y="421"/>
+      <point x="207" y="445"/>
+      <point x="265" y="445" type="curve" smooth="yes"/>
+      <point x="318" y="445"/>
+      <point x="344" y="424"/>
+      <point x="344" y="390" type="curve" smooth="yes"/>
+      <point x="344" y="348"/>
+      <point x="313" y="326"/>
+      <point x="177" y="312" type="curve"/>
+      <point x="180" y="197" type="line"/>
+      <point x="331" y="197" type="line"/>
+      <point x="338" y="270" type="line"/>
+      <point x="422" y="276"/>
+      <point x="509" y="317"/>
+      <point x="509" y="415" type="curve" smooth="yes"/>
+      <point x="509" y="520"/>
+      <point x="408" y="568"/>
+      <point x="267" y="568" type="curve" smooth="yes"/>
+      <point x="112" y="568"/>
+      <point x="31" y="517"/>
+    </contour>
+    <component base="period" xScale="0.916" yScale="0.878" xOffset="121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 21}</string>
+          <key>target</key>
+          <string>{0, 6}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

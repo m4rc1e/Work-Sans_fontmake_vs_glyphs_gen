@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+  <advance width="659"/>
+  <unicode hex="0056"/>
+  <anchor x="329" y="660" name="top"/>
+  <anchor x="392" y="0" name="ogonek"/>
+  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="341" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="524" y="660" type="line"/>
+      <point x="370" y="220" type="line"/>
+      <point x="330" y="90" type="line"/>
+      <point x="290" y="221" type="line"/>
+      <point x="136" y="660" type="line"/>
+      <point x="22" y="660" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="637" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 13:05:51</string>
+    </dict>
+  </lib>
+</glyph>

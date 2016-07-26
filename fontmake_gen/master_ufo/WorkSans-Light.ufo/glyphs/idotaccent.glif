@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotaccent" format="2">
+  <advance width="186"/>
+  <anchor x="93" y="0" name="bottom"/>
+  <anchor x="101" y="0" name="bottomC"/>
+  <anchor x="101" y="0" name="ogonek"/>
+  <anchor x="93" y="632" name="top"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 20:15:00</string>
+    </dict>
+  </lib>
+</glyph>

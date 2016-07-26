@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="__swash_topleft" format="2">
+  <advance width="509"/>
+  <outline>
+    <contour>
+      <point x="283" y="365" type="line"/>
+      <point x="222" y="375"/>
+      <point x="179" y="415"/>
+      <point x="179" y="471" type="curve" smooth="yes"/>
+      <point x="179" y="541"/>
+      <point x="230" y="577"/>
+      <point x="310" y="577" type="curve" smooth="yes"/>
+      <point x="517" y="577" type="line"/>
+      <point x="517" y="660" type="line"/>
+      <point x="297" y="660" type="line" smooth="yes"/>
+      <point x="160" y="660"/>
+      <point x="77" y="590"/>
+      <point x="77" y="473" type="curve" smooth="yes"/>
+      <point x="77" y="367"/>
+      <point x="153" y="297"/>
+      <point x="247" y="286" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

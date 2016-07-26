@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c.sc" format="2">
+  <advance width="597"/>
+  <anchor x="323" y="0" name="bottomC"/>
+  <anchor x="319" y="560" name="top"/>
+  <anchor x="395" y="0" name="ogonek"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="512" y="162" type="line"/>
+      <point x="492" y="79"/>
+      <point x="426" y="35"/>
+      <point x="320" y="35" type="curve" smooth="yes"/>
+      <point x="195" y="35"/>
+      <point x="106" y="127"/>
+      <point x="106" y="280" type="curve" smooth="yes"/>
+      <point x="106" y="432"/>
+      <point x="193" y="525"/>
+      <point x="322" y="525" type="curve" smooth="yes"/>
+      <point x="424" y="525"/>
+      <point x="481" y="484"/>
+      <point x="506" y="397" type="curve"/>
+      <point x="553" y="418" type="line"/>
+      <point x="522" y="518"/>
+      <point x="443" y="568"/>
+      <point x="323" y="568" type="curve" smooth="yes"/>
+      <point x="162" y="568"/>
+      <point x="56" y="458"/>
+      <point x="56" y="280" type="curve" smooth="yes"/>
+      <point x="56" y="102"/>
+      <point x="163" y="-8"/>
+      <point x="321" y="-8" type="curve" smooth="yes"/>
+      <point x="442" y="-8"/>
+      <point x="532" y="46"/>
+      <point x="560" y="146" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 08:57:08</string>
+    </dict>
+  </lib>
+</glyph>

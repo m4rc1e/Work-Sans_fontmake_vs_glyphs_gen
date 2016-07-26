@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.dnom" format="2">
+  <advance width="438"/>
+  <outline>
+    <component base="eightsuperior" yOffset="-337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>eightsuperior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>eightsuperior</string>
+    </dict>
+  </lib>
+</glyph>

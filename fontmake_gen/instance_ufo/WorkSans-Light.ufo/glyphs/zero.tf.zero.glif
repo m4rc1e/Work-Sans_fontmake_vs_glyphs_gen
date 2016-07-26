@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tf.zero" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="430" y="596" type="line"/>
+      <point x="400" y="619" type="line"/>
+      <point x="175" y="60" type="line"/>
+      <point x="207" y="41" type="line"/>
+    </contour>
+    <component base="zero.tf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero.tf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero.tf</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

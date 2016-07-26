@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve.sc" format="2">
+  <advance width="629"/>
+  <anchor x="546" y="0" name="bottomC"/>
+  <anchor x="314" y="560" name="top"/>
+  <anchor x="622" y="0" name="ogonek"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="breve" xOffset="64" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

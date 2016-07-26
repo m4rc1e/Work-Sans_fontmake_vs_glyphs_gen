@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+  <advance width="620"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="34" y="660" type="line"/>
+      <point x="273" y="264" type="line"/>
+      <point x="347" y="264" type="line"/>
+      <point x="586" y="660" type="line"/>
+      <point x="493" y="660" type="line"/>
+      <point x="359" y="418" type="line"/>
+      <point x="311" y="318" type="line"/>
+      <point x="309" y="318" type="line"/>
+      <point x="261" y="417" type="line"/>
+      <point x="127" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="0" type="line"/>
+      <point x="345" y="257" type="line"/>
+      <point x="275" y="257" type="line"/>
+      <point x="275" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="538" y="107" type="line"/>
+      <point x="538" y="162" type="line"/>
+      <point x="83" y="162" type="line"/>
+      <point x="83" y="107" type="line"/>
+    </contour>
+    <contour>
+      <point x="538" y="237" type="line"/>
+      <point x="538" y="297" type="line"/>
+      <point x="408" y="297" type="line"/>
+      <point x="310" y="287" type="line"/>
+      <point x="212" y="297" type="line"/>
+      <point x="83" y="297" type="line"/>
+      <point x="83" y="237" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 0}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 3}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>285</integer>
+          <key>y</key>
+          <integer>416</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

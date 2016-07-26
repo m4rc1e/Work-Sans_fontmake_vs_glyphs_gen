@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+  <advance width="308"/>
+  <unicode hex="0069"/>
+  <anchor x="154" y="0" name="bottomC"/>
+  <anchor x="154" y="714" name="top"/>
+  <anchor x="250" y="10" name="ogonek"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="279" y="628" type="curve" smooth="yes"/>
+      <point x="279" y="698"/>
+      <point x="245" y="724"/>
+      <point x="154" y="724" type="curve" smooth="yes"/>
+      <point x="63" y="724"/>
+      <point x="29" y="698"/>
+      <point x="29" y="628" type="curve" smooth="yes"/>
+      <point x="29" y="558"/>
+      <point x="63" y="532"/>
+      <point x="154" y="532" type="curve" smooth="yes"/>
+      <point x="245" y="532"/>
+      <point x="279" y="558"/>
+    </contour>
+    <component base="idotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:11:15</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n-10</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n-10</string>
+    </dict>
+  </lib>
+</glyph>

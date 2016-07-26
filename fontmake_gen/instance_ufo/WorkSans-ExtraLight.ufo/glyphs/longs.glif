@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs" format="2">
+  <advance width="219"/>
+  <unicode hex="017F"/>
+  <anchor x="103" y="0" name="bottomC"/>
+  <anchor x="173" y="730" name="top"/>
+  <anchor x="111" y="0" name="ogonek"/>
+  <anchor x="100" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="111" y="0" type="line"/>
+      <point x="111" y="589" type="line" smooth="yes"/>
+      <point x="111" y="670"/>
+      <point x="141" y="710"/>
+      <point x="199" y="710" type="curve" smooth="yes"/>
+      <point x="228" y="710"/>
+      <point x="240" y="704"/>
+      <point x="256" y="688" type="curve"/>
+      <point x="264" y="710" type="line"/>
+      <point x="248" y="725"/>
+      <point x="233" y="735"/>
+      <point x="196" y="735" type="curve" smooth="yes"/>
+      <point x="122" y="735"/>
+      <point x="83" y="684"/>
+      <point x="83" y="591" type="curve" smooth="yes"/>
+      <point x="83" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:15:49</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

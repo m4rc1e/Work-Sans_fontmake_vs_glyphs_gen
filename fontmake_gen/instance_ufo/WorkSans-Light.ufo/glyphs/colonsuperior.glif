@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsuperior" format="2">
+  <advance width="159"/>
+  <outline>
+    <component base="periodsuperior"/>
+    <component base="periodsuperior" yOffset="275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>periodsuperior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>periodsuperior</string>
+    </dict>
+  </lib>
+</glyph>

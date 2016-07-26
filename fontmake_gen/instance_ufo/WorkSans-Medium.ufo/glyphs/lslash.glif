@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="2">
+  <advance width="379"/>
+  <unicode hex="0142"/>
+  <anchor x="321" y="354" name="center"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="176" y="725" name="top"/>
+  <anchor x="251" y="0" name="bottomC"/>
+  <anchor x="266" y="725" name="topright"/>
+  <anchor x="313" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="177" y="394" type="line"/>
+      <point x="32" y="309" type="line"/>
+      <point x="32" y="214" type="line"/>
+      <point x="196" y="319" type="line"/>
+      <point x="347" y="408" type="line"/>
+      <point x="347" y="503" type="line"/>
+    </contour>
+    <component base="l" xOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:15:49</string>
+    </dict>
+  </lib>
+</glyph>

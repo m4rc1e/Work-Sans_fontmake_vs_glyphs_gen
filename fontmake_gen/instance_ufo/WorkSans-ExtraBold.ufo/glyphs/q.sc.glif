@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q.sc" format="2">
+  <advance width="662"/>
+  <anchor x="331" y="560" name="top"/>
+  <anchor x="516" y="-173" name="ogonek"/>
+  <anchor x="331" y="-210" name="bottom"/>
+  <anchor x="496" y="-173" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="285" y="30" type="line"/>
+      <point x="259" y="-111"/>
+      <point x="336" y="-174"/>
+      <point x="472" y="-177" type="curve" smooth="yes"/>
+      <point x="534" y="-178"/>
+      <point x="585" y="-157"/>
+      <point x="619" y="-130" type="curve"/>
+      <point x="572" y="-1" type="line"/>
+      <point x="548" y="-30"/>
+      <point x="522" y="-40"/>
+      <point x="474" y="-40" type="curve" smooth="yes"/>
+      <point x="408" y="-40"/>
+      <point x="373" y="-19"/>
+      <point x="380" y="33" type="curve"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 10:05:21</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>582</integer>
+          <key>y</key>
+          <integer>280</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

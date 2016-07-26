@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="2">
+  <advance width="714"/>
+  <unicode hex="00D4"/>
+  <anchor x="357" y="0" name="bottomC"/>
+  <anchor x="357" y="660" name="top"/>
+  <anchor x="433" y="0" name="ogonek"/>
+  <anchor x="357" y="0" name="bottom"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexcmb.cap" xOffset="357"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackSmallSquare.case" format="2">
+  <advance width="683"/>
+  <outline>
+    <contour>
+      <point x="93" y="81" type="line"/>
+      <point x="590" y="81" type="line"/>
+      <point x="590" y="579" type="line"/>
+      <point x="93" y="579" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

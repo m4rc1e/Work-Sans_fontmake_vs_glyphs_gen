@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.swsh" format="2">
+  <advance width="638"/>
+  <anchor x="314" y="500" name="top"/>
+  <anchor x="203" y="-210" name="ogonek"/>
+  <anchor x="197" y="-210" name="bottom"/>
+  <anchor x="160" y="-210" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="425" y="30" type="curve" smooth="yes"/>
+      <point x="535" y="366" type="line" smooth="yes"/>
+      <point x="551" y="418"/>
+      <point x="575" y="438"/>
+      <point x="617" y="438" type="curve" smooth="yes"/>
+      <point x="643" y="438"/>
+      <point x="655" y="432"/>
+      <point x="668" y="424" type="curve"/>
+      <point x="704" y="549" type="line"/>
+      <point x="669" y="579"/>
+      <point x="637" y="590"/>
+      <point x="580" y="590" type="curve" smooth="yes"/>
+      <point x="483" y="590"/>
+      <point x="410" y="541"/>
+      <point x="382" y="433" type="curve" smooth="yes"/>
+      <point x="326" y="232" type="line"/>
+      <point x="302" y="118" type="line"/>
+      <point x="281" y="229" type="line"/>
+      <point x="221" y="500" type="line"/>
+      <point x="-1" y="500" type="line"/>
+      <point x="145" y="127" type="line"/>
+      <point x="206" y="-15" type="line"/>
+      <point x="199" y="-34" type="line" smooth="yes"/>
+      <point x="188" y="-62"/>
+      <point x="167" y="-71"/>
+      <point x="126" y="-71" type="curve" smooth="yes"/>
+      <point x="81" y="-71"/>
+      <point x="59" y="-65"/>
+      <point x="38" y="-50" type="curve"/>
+      <point x="-1" y="-180" type="line"/>
+      <point x="34" y="-202"/>
+      <point x="83" y="-215"/>
+      <point x="145" y="-215" type="curve" smooth="yes"/>
+      <point x="290" y="-215"/>
+      <point x="369" y="-152"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 22:02:01</string>
+    </dict>
+  </lib>
+</glyph>

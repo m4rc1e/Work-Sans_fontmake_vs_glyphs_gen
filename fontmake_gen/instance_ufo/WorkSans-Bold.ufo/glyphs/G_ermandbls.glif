@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="719"/>
+  <unicode hex="1E9E"/>
+  <anchor x="375" y="660" name="top"/>
+  <anchor x="529" y="0" name="ogonek"/>
+  <anchor x="375" y="0" name="bottom"/>
+  <anchor x="480" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="245" y="394" type="line" smooth="yes"/>
+      <point x="245" y="479"/>
+      <point x="296" y="530"/>
+      <point x="375" y="530" type="curve" smooth="yes"/>
+      <point x="494" y="530" type="line"/>
+      <point x="347" y="363" type="line"/>
+      <point x="459" y="307" type="line"/>
+      <point x="658" y="532" type="line"/>
+      <point x="658" y="660" type="line"/>
+      <point x="345" y="660" type="line" smooth="yes"/>
+      <point x="178" y="660"/>
+      <point x="73" y="568"/>
+      <point x="73" y="419" type="curve" smooth="yes"/>
+      <point x="73" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="696" y="187" type="curve" smooth="yes"/>
+      <point x="696" y="311"/>
+      <point x="604" y="363"/>
+      <point x="483" y="363" type="curve" smooth="yes"/>
+      <point x="347" y="363" type="line"/>
+      <point x="347" y="267" type="line"/>
+      <point x="435" y="267" type="line" smooth="yes"/>
+      <point x="497" y="267"/>
+      <point x="535" y="241"/>
+      <point x="535" y="193" type="curve" smooth="yes"/>
+      <point x="535" y="147"/>
+      <point x="499" y="118"/>
+      <point x="446" y="118" type="curve" smooth="yes"/>
+      <point x="401" y="118"/>
+      <point x="369" y="130"/>
+      <point x="344" y="153" type="curve"/>
+      <point x="298" y="53" type="line"/>
+      <point x="330" y="18"/>
+      <point x="386" y="-5"/>
+      <point x="481" y="-5" type="curve" smooth="yes"/>
+      <point x="605" y="-5"/>
+      <point x="696" y="62"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 18:27:23</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

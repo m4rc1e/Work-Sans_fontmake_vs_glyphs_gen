@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+  <advance width="593"/>
+  <unicode hex="005A"/>
+  <anchor x="292" y="0" name="bottomC"/>
+  <anchor x="292" y="660" name="top"/>
+  <anchor x="553" y="0" name="ogonek"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="537" y="616" type="line"/>
+      <point x="537" y="660" type="line"/>
+      <point x="52" y="660" type="line"/>
+      <point x="52" y="614" type="line"/>
+      <point x="501" y="614" type="line"/>
+      <point x="492" y="632" type="line"/>
+      <point x="43" y="44" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="46" type="line"/>
+      <point x="79" y="46" type="line"/>
+      <point x="88" y="28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 13:07:44</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve.ss04" format="2">
+  <advance width="722"/>
+  <anchor x="363" y="0" name="bottomC"/>
+  <anchor x="364" y="660" name="top"/>
+  <anchor x="401" y="0" name="ogonek"/>
+  <anchor x="379" y="0" name="bottom"/>
+  <outline>
+    <component base="G.ss04"/>
+    <component base="breve" xOffset="114" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

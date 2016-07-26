@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.sc" format="2">
+  <advance width="283"/>
+  <outline>
+    <component base="exclam.sc" xScale="-1.0" yScale="-1.0" xOffset="283" yOffset="560"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=exclam.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=exclam.sc</string>
+    </dict>
+  </lib>
+</glyph>

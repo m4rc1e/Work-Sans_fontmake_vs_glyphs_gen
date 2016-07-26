@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent.001" format="2">
+  <advance width="561"/>
+  <outline>
+    <contour>
+      <point x="53" y="250" type="curve" smooth="yes"/>
+      <point x="53" y="86"/>
+      <point x="145" y="-10"/>
+      <point x="307" y="-10" type="curve" smooth="yes"/>
+      <point x="430" y="-10"/>
+      <point x="507" y="50"/>
+      <point x="527" y="142" type="curve"/>
+      <point x="413" y="175" type="line"/>
+      <point x="400" y="116"/>
+      <point x="363" y="84"/>
+      <point x="305" y="84" type="curve" smooth="yes"/>
+      <point x="226" y="84"/>
+      <point x="180" y="137"/>
+      <point x="180" y="249" type="curve" smooth="yes"/>
+      <point x="180" y="360"/>
+      <point x="224" y="416"/>
+      <point x="306" y="416" type="curve" smooth="yes"/>
+      <point x="358" y="416"/>
+      <point x="393" y="384"/>
+      <point x="406" y="324" type="curve"/>
+      <point x="524" y="362" type="line"/>
+      <point x="502" y="446"/>
+      <point x="438" y="510"/>
+      <point x="303" y="510" type="curve" smooth="yes"/>
+      <point x="146" y="510"/>
+      <point x="53" y="414"/>
+    </contour>
+    <contour>
+      <point x="246" y="34" type="line"/>
+      <point x="246" y="-110" type="line"/>
+      <point x="349" y="-110" type="line"/>
+      <point x="349" y="34" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="610" type="line"/>
+      <point x="246" y="464" type="line"/>
+      <point x="349" y="464" type="line"/>
+      <point x="349" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>cent</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>cent</string>
+    </dict>
+  </lib>
+</glyph>

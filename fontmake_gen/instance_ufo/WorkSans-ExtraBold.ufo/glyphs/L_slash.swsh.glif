@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash.swsh" format="2">
+  <advance width="765"/>
+  <anchor x="462" y="360" name="center"/>
+  <anchor x="414" y="0" name="bottom"/>
+  <anchor x="209" y="660" name="top"/>
+  <anchor x="414" y="0" name="bottomC"/>
+  <anchor x="418" y="701" name="topright"/>
+  <anchor x="499" y="0" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="-5" y="295" type="line"/>
+      <point x="-5" y="155" type="line"/>
+      <point x="480" y="377" type="line"/>
+      <point x="480" y="517" type="line"/>
+    </contour>
+    <component base="L.swsh" xOffset="46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 20:22:16</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Lslash</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L.swsh</string>
+    </dict>
+  </lib>
+</glyph>

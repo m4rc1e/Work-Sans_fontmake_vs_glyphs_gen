@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="2">
+  <advance width="629"/>
+  <unicode hex="0071"/>
+  <anchor x="309" y="500" name="top"/>
+  <anchor x="330" y="13" name="ogonek"/>
+  <anchor x="483" y="-210" name="bottom"/>
+  <anchor x="247" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="419" y="500" type="line"/>
+      <point x="411" y="356" type="line"/>
+      <point x="398" y="319" type="line"/>
+      <point x="398" y="-210" type="line"/>
+      <point x="568" y="-210" type="line"/>
+      <point x="568" y="322" type="line"/>
+      <point x="568" y="500" type="line"/>
+    </contour>
+    <component base="bowl" yScale="-1.0" xOffset="-39" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 18:50:51</string>
+    </dict>
+  </lib>
+</glyph>

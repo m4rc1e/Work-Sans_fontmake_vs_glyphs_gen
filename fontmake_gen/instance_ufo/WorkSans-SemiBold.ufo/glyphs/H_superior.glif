@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hsuperior" format="2">
+  <advance width="474"/>
+  <outline>
+    <contour>
+      <point x="323" y="730" type="line"/>
+      <point x="323" y="333" type="line"/>
+      <point x="427" y="333" type="line"/>
+      <point x="427" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="730" type="line"/>
+      <point x="46" y="333" type="line"/>
+      <point x="151" y="333" type="line"/>
+      <point x="151" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="574" type="line"/>
+      <point x="96" y="495" type="line"/>
+      <point x="378" y="495" type="line"/>
+      <point x="378" y="574" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

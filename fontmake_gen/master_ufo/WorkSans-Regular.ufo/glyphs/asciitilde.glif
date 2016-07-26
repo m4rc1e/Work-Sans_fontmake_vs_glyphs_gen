@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="2">
+  <advance width="540"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="421" y="384" type="line"/>
+      <point x="413" y="339"/>
+      <point x="394" y="310"/>
+      <point x="359" y="310" type="curve" smooth="yes"/>
+      <point x="298" y="310"/>
+      <point x="263" y="384"/>
+      <point x="174" y="384" type="curve" smooth="yes"/>
+      <point x="93" y="384"/>
+      <point x="51" y="333"/>
+      <point x="43" y="235" type="curve"/>
+      <point x="119" y="235" type="line"/>
+      <point x="127" y="280"/>
+      <point x="146" y="309"/>
+      <point x="181" y="309" type="curve" smooth="yes"/>
+      <point x="244" y="309"/>
+      <point x="276" y="235"/>
+      <point x="367" y="235" type="curve" smooth="yes"/>
+      <point x="445" y="235"/>
+      <point x="489" y="286"/>
+      <point x="497" y="384" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>-41</integer>
+          <key>y</key>
+          <integer>213</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>770</integer>
+          <key>y</key>
+          <integer>384</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

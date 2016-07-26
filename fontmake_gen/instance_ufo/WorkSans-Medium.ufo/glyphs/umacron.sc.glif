@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron.sc" format="2">
+  <advance width="650"/>
+  <anchor x="325" y="0" name="bottomC"/>
+  <anchor x="325" y="560" name="top"/>
+  <anchor x="439" y="13" name="ogonek"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="macron" xOffset="75" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

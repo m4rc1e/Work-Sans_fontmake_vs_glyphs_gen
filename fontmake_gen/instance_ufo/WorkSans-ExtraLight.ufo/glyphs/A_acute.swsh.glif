@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute.swsh" format="2">
+  <advance width="880"/>
+  <anchor x="580" y="660" name="top"/>
+  <anchor x="865" y="0" name="ogonek"/>
+  <anchor x="580" y="0" name="bottom"/>
+  <outline>
+    <component base="A.swsh"/>
+    <component base="acutecmb.cap" xOffset="580"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:23:33</string>
+    </dict>
+  </lib>
+</glyph>

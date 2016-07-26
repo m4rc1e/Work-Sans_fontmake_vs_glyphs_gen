@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.sc" format="2">
+  <advance width="633"/>
+  <anchor x="311" y="560" name="top"/>
+  <anchor x="627" y="0" name="ogonek"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="526" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="187" y="560" type="line"/>
+      <point x="187" y="429" type="line"/>
+      <point x="334" y="429" type="line" smooth="yes"/>
+      <point x="382" y="429"/>
+      <point x="405" y="408"/>
+      <point x="405" y="365" type="curve" smooth="yes"/>
+      <point x="405" y="322"/>
+      <point x="382" y="302"/>
+      <point x="334" y="302" type="curve" smooth="yes"/>
+      <point x="187" y="302" type="line"/>
+      <point x="187" y="182" type="line"/>
+      <point x="363" y="182" type="line" smooth="yes"/>
+      <point x="514" y="182"/>
+      <point x="602" y="249"/>
+      <point x="602" y="370" type="curve" smooth="yes"/>
+      <point x="602" y="493"/>
+      <point x="514" y="560"/>
+      <point x="363" y="560" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="61" y="560" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="297" y="235" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="441" y="290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/04/09 14:23:23</string>
+    </dict>
+  </lib>
+</glyph>

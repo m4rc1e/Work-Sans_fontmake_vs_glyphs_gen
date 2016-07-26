@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="441"/>
+  <unicode hex="013E"/>
+  <anchor x="311" y="352" name="center"/>
+  <anchor x="220" y="0" name="bottomC"/>
+  <anchor x="144" y="700" name="top"/>
+  <anchor x="174" y="0" name="bottom"/>
+  <anchor x="317" y="700" name="topright"/>
+  <anchor x="278" y="0" name="ogonek"/>
+  <outline>
+    <component base="l"/>
+    <component base="caron.alt" xOffset="265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=l</string>
+    </dict>
+  </lib>
+</glyph>

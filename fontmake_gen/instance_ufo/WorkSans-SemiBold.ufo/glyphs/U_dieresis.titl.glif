@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis.titl" format="2">
+  <advance width="715"/>
+  <outline>
+    <contour>
+      <point x="464" y="550" type="curve" smooth="yes"/>
+      <point x="464" y="585"/>
+      <point x="440" y="608"/>
+      <point x="402" y="608" type="curve" smooth="yes"/>
+      <point x="365" y="608"/>
+      <point x="342" y="585"/>
+      <point x="342" y="550" type="curve" smooth="yes"/>
+      <point x="342" y="515"/>
+      <point x="365" y="493"/>
+      <point x="402" y="493" type="curve" smooth="yes"/>
+      <point x="440" y="493"/>
+      <point x="464" y="515"/>
+    </contour>
+    <contour>
+      <point x="375" y="605" type="curve" smooth="yes"/>
+      <point x="375" y="640"/>
+      <point x="351" y="662"/>
+      <point x="313" y="662" type="curve" smooth="yes"/>
+      <point x="277" y="662"/>
+      <point x="253" y="640"/>
+      <point x="253" y="605" type="curve" smooth="yes"/>
+      <point x="253" y="569"/>
+      <point x="277" y="547"/>
+      <point x="313" y="547" type="curve" smooth="yes"/>
+      <point x="351" y="547"/>
+      <point x="375" y="569"/>
+    </contour>
+    <contour>
+      <point x="501" y="660" type="line"/>
+      <point x="501" y="266" type="line" smooth="yes"/>
+      <point x="501" y="155"/>
+      <point x="455" y="103"/>
+      <point x="358" y="103" type="curve" smooth="yes"/>
+      <point x="261" y="103"/>
+      <point x="214" y="155"/>
+      <point x="214" y="266" type="curve" smooth="yes"/>
+      <point x="214" y="660" type="line"/>
+      <point x="76" y="660" type="line"/>
+      <point x="76" y="260" type="line" smooth="yes"/>
+      <point x="76" y="80"/>
+      <point x="174" y="-10"/>
+      <point x="358" y="-10" type="curve" smooth="yes"/>
+      <point x="542" y="-10"/>
+      <point x="640" y="80"/>
+      <point x="640" y="260" type="curve" smooth="yes"/>
+      <point x="640" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

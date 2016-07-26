@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevensuperior" format="2">
+  <advance width="304"/>
+  <unicode hex="2077"/>
+  <anchor x="145" y="543" name="_indexring"/>
+  <outline>
+    <contour>
+      <point x="151" y="333" type="line"/>
+      <point x="151" y="475"/>
+      <point x="198" y="589"/>
+      <point x="296" y="693" type="curve"/>
+      <point x="296" y="730" type="line"/>
+      <point x="4" y="730" type="line"/>
+      <point x="4" y="693" type="line"/>
+      <point x="273" y="693" type="line"/>
+      <point x="264" y="706" type="line"/>
+      <point x="157" y="599"/>
+      <point x="107" y="471"/>
+      <point x="107" y="333" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 5}</string>
+          <key>target</key>
+          <string>{0, 6}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="2">
+  <advance width="715"/>
+  <unicode hex="0147"/>
+  <anchor x="363" y="660" name="top"/>
+  <anchor x="611" y="0" name="ogonek"/>
+  <anchor x="374" y="0" name="bottom"/>
+  <anchor x="588" y="0" name="bottomC"/>
+  <outline>
+    <component base="N"/>
+    <component base="caroncmb.cap" xOffset="363"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

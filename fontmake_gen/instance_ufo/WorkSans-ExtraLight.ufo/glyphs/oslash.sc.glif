@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash.sc" format="2">
+  <advance width="641"/>
+  <anchor x="321" y="0" name="bottomC"/>
+  <anchor x="321" y="560" name="top"/>
+  <anchor x="390" y="0" name="ogonek"/>
+  <anchor x="321" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="537" y="584" type="line"/>
+      <point x="477" y="504" type="line"/>
+      <point x="493" y="491" type="line"/>
+      <point x="563" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="148" y="66" type="line"/>
+      <point x="164" y="52" type="line"/>
+      <point x="493" y="492" type="line"/>
+      <point x="476" y="504" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="-27" type="line"/>
+      <point x="164" y="52" type="line"/>
+      <point x="148" y="67" type="line"/>
+      <point x="79" y="-27" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 10:03:47</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde.sc" format="2">
+  <advance width="661"/>
+  <anchor x="334" y="560" name="top"/>
+  <anchor x="567" y="0" name="ogonek"/>
+  <anchor x="352" y="0" name="bottom"/>
+  <anchor x="523" y="0" name="bottomC"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="tilde" xOffset="83" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

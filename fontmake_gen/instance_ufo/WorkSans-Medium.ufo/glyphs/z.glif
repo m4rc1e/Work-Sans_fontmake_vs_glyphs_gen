@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="2">
+  <advance width="528"/>
+  <unicode hex="007A"/>
+  <anchor x="252" y="500" name="top"/>
+  <anchor x="481" y="0" name="ogonek"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="252" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="481" y="0" type="line"/>
+      <point x="481" y="84" type="line"/>
+      <point x="265" y="84" type="line"/>
+      <point x="170" y="82" type="line"/>
+      <point x="230" y="144" type="line"/>
+      <point x="472" y="426" type="line"/>
+      <point x="472" y="500" type="line"/>
+      <point x="53" y="500" type="line"/>
+      <point x="53" y="416" type="line"/>
+      <point x="268" y="416" type="line"/>
+      <point x="354" y="418" type="line"/>
+      <point x="294" y="356" type="line"/>
+      <point x="51" y="74" type="line"/>
+      <point x="51" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 21:48:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 13}</string>
+          <key>target</key>
+          <string>{0, 12}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 7}</string>
+          <key>target</key>
+          <string>{0, 8}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

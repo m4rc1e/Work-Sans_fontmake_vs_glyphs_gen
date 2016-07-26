@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20BA.tf" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="534" y="257" type="line"/>
+      <point x="534" y="105"/>
+      <point x="446" y="14"/>
+      <point x="299" y="14" type="curve" smooth="yes"/>
+      <point x="180" y="14" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="308" y="0" type="line" smooth="yes"/>
+      <point x="459" y="0"/>
+      <point x="549" y="96"/>
+      <point x="549" y="257" type="curve"/>
+    </contour>
+    <contour>
+      <point x="172" y="660" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="188" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="261" type="line"/>
+      <point x="55" y="246" type="line"/>
+      <point x="415" y="352" type="line"/>
+      <point x="415" y="367" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="391" type="line"/>
+      <point x="55" y="376" type="line"/>
+      <point x="415" y="483" type="line"/>
+      <point x="415" y="498" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

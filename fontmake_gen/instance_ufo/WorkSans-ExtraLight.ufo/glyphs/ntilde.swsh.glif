@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde.swsh" format="2">
+  <advance width="610"/>
+  <anchor x="298" y="500" name="top"/>
+  <anchor x="566" y="-87" name="ogonek"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="559" y="-87" name="bottomC"/>
+  <outline>
+    <component base="n.swsh"/>
+    <component base="tilde" xOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

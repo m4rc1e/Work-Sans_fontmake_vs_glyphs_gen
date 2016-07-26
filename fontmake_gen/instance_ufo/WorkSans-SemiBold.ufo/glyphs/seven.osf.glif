@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.osf" format="2">
+  <advance width="569"/>
+  <outline>
+    <contour>
+      <point x="15" y="452" type="line"/>
+      <point x="463" y="452" type="line"/>
+      <point x="445" y="490" type="line"/>
+      <point x="261" y="321"/>
+      <point x="177" y="120"/>
+      <point x="177" y="-100" type="curve"/>
+      <point x="314" y="-100" type="line"/>
+      <point x="314" y="106"/>
+      <point x="370" y="284"/>
+      <point x="537" y="455" type="curve"/>
+      <point x="537" y="560" type="line"/>
+      <point x="15" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seven</string>
+    </dict>
+  </lib>
+</glyph>

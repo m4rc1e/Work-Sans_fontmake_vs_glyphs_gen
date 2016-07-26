@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon.tf" format="2">
+  <advance width="302"/>
+  <outline>
+    <component base="comma" xOffset="42"/>
+    <component base="period" xScale="-1.0" yScale="-1.0" xOffset="267" yOffset="498"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

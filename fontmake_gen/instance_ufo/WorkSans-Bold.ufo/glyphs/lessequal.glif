@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+  <advance width="604"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="61" y="503" type="line"/>
+      <point x="61" y="387" type="line"/>
+      <point x="550" y="512" type="line"/>
+      <point x="550" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="550" y="0" type="line"/>
+      <point x="550" y="123" type="line"/>
+      <point x="61" y="123" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="430" type="line"/>
+      <point x="61" y="313" type="line"/>
+      <point x="550" y="162" type="line"/>
+      <point x="550" y="305" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

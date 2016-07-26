@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcmb.cap" format="2">
+  <anchor x="0" y="660" name="_top"/>
+  <outline>
+    <component base="acutecmb.cap" xOffset="117"/>
+    <component base="acutecmb.cap" xOffset="-107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 08:12:10</string>
+    </dict>
+  </lib>
+</glyph>

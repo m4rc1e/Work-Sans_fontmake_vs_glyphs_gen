@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+  <advance width="740"/>
+  <unicode hex="00D0"/>
+  <anchor x="348" y="0" name="bottom"/>
+  <anchor x="348" y="660" name="top"/>
+  <anchor x="362" y="0" name="ogonek"/>
+  <anchor x="253" y="210" name="center"/>
+  <anchor x="345" y="0" name="bottomC"/>
+  <outline>
+    <component base="Dcroat"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/21 08:16:26</string>
+    </dict>
+  </lib>
+</glyph>

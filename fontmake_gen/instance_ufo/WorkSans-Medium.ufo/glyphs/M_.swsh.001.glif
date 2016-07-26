@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.swsh.001" format="2">
+  <advance width="1099"/>
+  <anchor x="663" y="660" name="top"/>
+  <anchor x="1001" y="0" name="ogonek"/>
+  <anchor x="663" y="0" name="bottom"/>
+  <anchor x="687" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="216" y="365" type="line"/>
+      <point x="155" y="375"/>
+      <point x="112" y="415"/>
+      <point x="112" y="471" type="curve" smooth="yes"/>
+      <point x="112" y="541"/>
+      <point x="163" y="577"/>
+      <point x="243" y="577" type="curve" smooth="yes"/>
+      <point x="450" y="577" type="line"/>
+      <point x="450" y="660" type="line"/>
+      <point x="229" y="660" type="line" smooth="yes"/>
+      <point x="93" y="660"/>
+      <point x="10" y="590"/>
+      <point x="10" y="473" type="curve" smooth="yes"/>
+      <point x="10" y="367"/>
+      <point x="86" y="297"/>
+      <point x="179" y="286" type="curve"/>
+    </contour>
+    <component base="M" xOffset="228"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 20:00:58</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>F.swsh</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

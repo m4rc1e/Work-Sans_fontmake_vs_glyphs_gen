@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.tf" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="24" y="440" type="curve" smooth="yes"/>
+      <point x="24" y="303"/>
+      <point x="115" y="227"/>
+      <point x="234" y="232" type="curve" smooth="yes"/>
+      <point x="312" y="235"/>
+      <point x="348" y="260"/>
+      <point x="366" y="295" type="curve"/>
+      <point x="369" y="295" type="line"/>
+      <point x="369" y="286"/>
+      <point x="369" y="280"/>
+      <point x="369" y="274" type="curve" smooth="yes"/>
+      <point x="369" y="192"/>
+      <point x="345" y="157"/>
+      <point x="298" y="157" type="curve" smooth="yes"/>
+      <point x="264" y="157"/>
+      <point x="247" y="170"/>
+      <point x="241" y="204" type="curve"/>
+      <point x="33" y="131" type="line"/>
+      <point x="73" y="33"/>
+      <point x="160" y="-10"/>
+      <point x="286" y="-10" type="curve" smooth="yes"/>
+      <point x="470" y="-10"/>
+      <point x="574" y="78"/>
+      <point x="574" y="324" type="curve" smooth="yes"/>
+      <point x="574" y="567"/>
+      <point x="467" y="670"/>
+      <point x="292" y="670" type="curve" smooth="yes"/>
+      <point x="121" y="670"/>
+      <point x="24" y="581"/>
+    </contour>
+    <contour>
+      <point x="343" y="441" type="curve" smooth="yes"/>
+      <point x="343" y="405"/>
+      <point x="324" y="385"/>
+      <point x="287" y="385" type="curve" smooth="yes"/>
+      <point x="250" y="385"/>
+      <point x="231" y="405"/>
+      <point x="231" y="441" type="curve" smooth="yes"/>
+      <point x="231" y="477"/>
+      <point x="250" y="497"/>
+      <point x="287" y="497" type="curve" smooth="yes"/>
+      <point x="324" y="497"/>
+      <point x="343" y="477"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

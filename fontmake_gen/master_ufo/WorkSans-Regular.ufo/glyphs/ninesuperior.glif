@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ninesuperior" format="2">
+  <advance width="381"/>
+  <unicode hex="2079"/>
+  <anchor x="182" y="530" name="_indexring"/>
+  <outline>
+    <contour>
+      <point x="91" y="735"/>
+      <point x="34" y="685"/>
+      <point x="34" y="605" type="curve" smooth="yes"/>
+      <point x="34" y="528"/>
+      <point x="87" y="480"/>
+      <point x="178" y="480" type="curve" smooth="yes"/>
+      <point x="222" y="480"/>
+      <point x="269" y="507"/>
+      <point x="279" y="533" type="curve"/>
+      <point x="280" y="533" type="line"/>
+      <point x="281" y="527"/>
+      <point x="281" y="520"/>
+      <point x="281" y="513" type="curve" smooth="yes"/>
+      <point x="281" y="451"/>
+      <point x="257" y="383"/>
+      <point x="183" y="383" type="curve" smooth="yes"/>
+      <point x="132" y="383"/>
+      <point x="110" y="405"/>
+      <point x="101" y="441" type="curve"/>
+      <point x="35" y="413" type="line"/>
+      <point x="57" y="355"/>
+      <point x="108" y="327"/>
+      <point x="182" y="327" type="curve" smooth="yes"/>
+      <point x="284" y="327"/>
+      <point x="347" y="397"/>
+      <point x="347" y="530" type="curve" smooth="yes"/>
+      <point x="347" y="661"/>
+      <point x="286" y="735"/>
+      <point x="184" y="735" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="233" y="678"/>
+      <point x="267" y="649"/>
+      <point x="267" y="606" type="curve" smooth="yes"/>
+      <point x="267" y="566"/>
+      <point x="233" y="535"/>
+      <point x="184" y="535" type="curve" smooth="yes"/>
+      <point x="133" y="535"/>
+      <point x="103" y="562"/>
+      <point x="103" y="606" type="curve" smooth="yes"/>
+      <point x="103" y="651"/>
+      <point x="133" y="678"/>
+      <point x="185" y="678" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 22}</string>
+          <key>target</key>
+          <string>{0, 15}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 28}</string>
+          <key>target</key>
+          <string>{1, 11}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

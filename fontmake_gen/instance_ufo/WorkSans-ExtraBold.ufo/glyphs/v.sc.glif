@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.sc" format="2">
+  <advance width="652"/>
+  <anchor x="327" y="560" name="top"/>
+  <anchor x="447" y="0" name="ogonek"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="329" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="450" y="560" type="line"/>
+      <point x="371" y="307" type="line"/>
+      <point x="332" y="156" type="line"/>
+      <point x="331" y="156" type="line"/>
+      <point x="291" y="308" type="line"/>
+      <point x="213" y="560" type="line"/>
+      <point x="-3" y="560" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="655" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 13:05:45</string>
+    </dict>
+  </lib>
+</glyph>

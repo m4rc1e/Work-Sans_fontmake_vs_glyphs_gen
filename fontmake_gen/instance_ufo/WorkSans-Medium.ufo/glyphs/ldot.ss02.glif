@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot.ss02" format="2">
+  <advance width="453"/>
+  <anchor x="138" y="0" name="bottomC"/>
+  <anchor x="138" y="725" name="top"/>
+  <anchor x="189" y="2" name="ogonek"/>
+  <anchor x="267" y="725" name="topright"/>
+  <anchor x="138" y="0" name="bottom"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="periodcentered" xOffset="245"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketrightsuperior" format="2">
+  <advance width="202"/>
+  <outline>
+    <component base="bracketleftsuperior" xScale="-1" xOffset="202"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|bracketleftsuperior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|bracketleftsuperior</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij.sc.ss05" format="2">
+  <advance width="619"/>
+  <outline>
+    <contour>
+      <point x="50" y="560" type="line"/>
+      <point x="50" y="263" type="line"/>
+      <point x="252" y="263" type="line"/>
+      <point x="252" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="560" type="line"/>
+      <point x="368" y="229" type="line" smooth="yes"/>
+      <point x="368" y="164"/>
+      <point x="348" y="143"/>
+      <point x="306" y="143" type="curve" smooth="yes"/>
+      <point x="264" y="143"/>
+      <point x="242" y="163"/>
+      <point x="248" y="215" type="curve"/>
+      <point x="51" y="215" type="line"/>
+      <point x="34" y="70"/>
+      <point x="131" y="-8"/>
+      <point x="303" y="-8" type="curve" smooth="yes"/>
+      <point x="463" y="-8"/>
+      <point x="570" y="78"/>
+      <point x="570" y="230" type="curve" smooth="yes"/>
+      <point x="570" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j.sc</string>
+    </dict>
+  </lib>
+</glyph>

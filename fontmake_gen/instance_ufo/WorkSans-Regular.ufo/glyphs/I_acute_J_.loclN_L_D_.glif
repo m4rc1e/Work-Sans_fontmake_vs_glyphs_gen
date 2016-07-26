@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD" format="2">
+  <advance width="862"/>
+  <anchor x="188" y="0" name="ogonek_1"/>
+  <anchor x="606" y="0" name="ogonek_2"/>
+  <anchor x="148" y="0" name="bottomC_1"/>
+  <anchor x="546" y="0" name="bottomC_2"/>
+  <anchor x="148" y="0" name="bottom_1"/>
+  <anchor x="552" y="0" name="bottom_2"/>
+  <anchor x="148" y="660" name="top_1"/>
+  <anchor x="721" y="660" name="top_2"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecmb.cap" xOffset="158"/>
+    <component base="J" xOffset="296"/>
+    <component base="acutecmb.cap" xOffset="731"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 10:59:59</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>Iacute</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>Iacute</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>573</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Iacute_J.loclNLD</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>862</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

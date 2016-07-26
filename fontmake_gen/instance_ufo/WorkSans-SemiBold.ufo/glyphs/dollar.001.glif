@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar.001" format="2">
+  <advance width="619"/>
+  <outline>
+    <contour>
+      <point x="57" y="461" type="curve" smooth="yes"/>
+      <point x="57" y="221"/>
+      <point x="449" y="324"/>
+      <point x="449" y="181" type="curve" smooth="yes"/>
+      <point x="449" y="125"/>
+      <point x="400" y="99"/>
+      <point x="315" y="99" type="curve" smooth="yes"/>
+      <point x="225" y="99"/>
+      <point x="143" y="144"/>
+      <point x="114" y="219" type="curve"/>
+      <point x="33" y="141" type="line"/>
+      <point x="85" y="50"/>
+      <point x="174" y="0"/>
+      <point x="319" y="0" type="curve" smooth="yes"/>
+      <point x="468" y="0"/>
+      <point x="577" y="70"/>
+      <point x="577" y="189" type="curve" smooth="yes"/>
+      <point x="577" y="433"/>
+      <point x="185" y="332"/>
+      <point x="185" y="471" type="curve" smooth="yes"/>
+      <point x="185" y="526"/>
+      <point x="232" y="560"/>
+      <point x="319" y="560" type="curve" smooth="yes"/>
+      <point x="408" y="560"/>
+      <point x="459" y="531"/>
+      <point x="502" y="452" type="curve"/>
+      <point x="580" y="533" type="line"/>
+      <point x="523" y="614"/>
+      <point x="455" y="660"/>
+      <point x="316" y="660" type="curve" smooth="yes"/>
+      <point x="152" y="660"/>
+      <point x="57" y="574"/>
+    </contour>
+    <contour>
+      <point x="264" y="51" type="line"/>
+      <point x="264" y="-104" type="line"/>
+      <point x="372" y="-104" type="line"/>
+      <point x="372" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="615" type="line"/>
+      <point x="371" y="764" type="line"/>
+      <point x="263" y="764" type="line"/>
+      <point x="263" y="615" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dollar</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dollar</string>
+    </dict>
+  </lib>
+</glyph>

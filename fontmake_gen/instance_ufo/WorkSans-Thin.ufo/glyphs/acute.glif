@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="2">
+  <advance width="550"/>
+  <unicode hex="00B4"/>
+  <anchor x="302" y="500" name="_top"/>
+  <outline>
+    <component base="grave" xScale="-1" xOffset="550"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

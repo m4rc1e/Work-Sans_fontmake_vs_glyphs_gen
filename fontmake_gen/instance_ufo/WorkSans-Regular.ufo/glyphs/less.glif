@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="2">
+  <advance width="604"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="547" y="488" type="line"/>
+      <point x="547" y="571" type="line"/>
+      <point x="71" y="346" type="line"/>
+      <point x="71" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="329" type="line"/>
+      <point x="71" y="253" type="line"/>
+      <point x="547" y="28" type="line"/>
+      <point x="547" y="111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>588</integer>
+          <key>y</key>
+          <integer>549</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>588</integer>
+          <key>y</key>
+          <integer>32</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.ss02" format="2">
+  <advance width="308"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <anchor x="154" y="700" name="top"/>
+  <anchor x="250" y="10" name="ogonek"/>
+  <anchor x="320" y="700" name="topright"/>
+  <anchor x="154" y="0" name="bottomC"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="acutecmb.asc" xOffset="136"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/01/03 05:44:30</string>
+    </dict>
+  </lib>
+</glyph>

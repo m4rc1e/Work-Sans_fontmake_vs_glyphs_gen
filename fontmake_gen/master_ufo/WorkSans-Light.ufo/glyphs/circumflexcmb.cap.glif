@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcmb.cap" format="2">
+  <anchor x="0" y="660" name="_top"/>
+  <outline>
+    <component base="caroncmb.cap" yScale="-1" yOffset="1628"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:09:01</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>700</integer>
+	<key>capHeight</key>
+	<integer>660</integer>
+	<key>copyright</key>
+	<string>Copyright © 2015 by Wei Huang. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-210</integer>
+	<key>familyName</key>
+	<string>Work Sans</string>
+	<key>guidelines</key>
+	<array>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2016/04/09 14:31:12</string>
+	<key>openTypeNameDesigner</key>
+	<string>Wei Huang</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>wweeiihhuuaanngg@gmail.com</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Wei Huang</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>wweeiihhuuaanngg@gmail.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Work Sans</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Bold</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>393</integer>
+		<integer>399</integer>
+		<integer>500</integer>
+		<integer>511</integer>
+		<integer>560</integer>
+		<integer>570</integer>
+		<integer>660</integer>
+		<integer>671</integer>
+		<integer>700</integer>
+		<integer>721</integer>
+		<integer>730</integer>
+		<integer>736</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-216</integer>
+		<integer>-210</integer>
+		<integer>-195</integer>
+		<integer>-189</integer>
+		<integer>-110</integer>
+		<integer>-100</integer>
+		<integer>327</integer>
+		<integer>333</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>168</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>229</integer>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>Work Sans</string>
+	<key>styleMapStyleName</key>
+	<string>bold</string>
+	<key>styleName</key>
+	<string>Bold</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>52</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

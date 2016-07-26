@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute.ss03" format="2">
+  <advance width="655"/>
+  <anchor x="564" y="0" name="bottomC"/>
+  <anchor x="322" y="660" name="top"/>
+  <anchor x="591" y="0" name="ogonek"/>
+  <anchor x="365" y="0" name="bottom"/>
+  <outline>
+    <component base="R.ss03"/>
+    <component base="acutecmb.cap" xOffset="322"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

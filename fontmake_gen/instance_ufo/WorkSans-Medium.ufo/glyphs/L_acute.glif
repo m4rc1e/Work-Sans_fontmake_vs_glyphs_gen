@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+  <advance width="599"/>
+  <unicode hex="0139"/>
+  <anchor x="453" y="346" name="center"/>
+  <anchor x="354" y="0" name="bottom"/>
+  <anchor x="151" y="660" name="top"/>
+  <anchor x="354" y="0" name="bottomC"/>
+  <anchor x="316" y="700" name="topright"/>
+  <anchor x="569" y="0" name="ogonek"/>
+  <outline>
+    <component base="L"/>
+    <component base="acutecmb.cap" xOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordmasculine" format="2">
+  <advance width="445"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="413" y="480" type="curve" smooth="yes"/>
+      <point x="413" y="594"/>
+      <point x="341" y="661"/>
+      <point x="222" y="661" type="curve" smooth="yes"/>
+      <point x="104" y="661"/>
+      <point x="32" y="594"/>
+      <point x="32" y="480" type="curve" smooth="yes"/>
+      <point x="32" y="366"/>
+      <point x="104" y="299"/>
+      <point x="222" y="299" type="curve" smooth="yes"/>
+      <point x="341" y="299"/>
+      <point x="413" y="366"/>
+    </contour>
+    <contour>
+      <point x="409" y="133" type="line"/>
+      <point x="409" y="234" type="line"/>
+      <point x="36" y="234" type="line"/>
+      <point x="36" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="480" type="curve" smooth="yes"/>
+      <point x="178" y="544"/>
+      <point x="191" y="570"/>
+      <point x="222" y="570" type="curve" smooth="yes"/>
+      <point x="254" y="570"/>
+      <point x="266" y="544"/>
+      <point x="266" y="480" type="curve" smooth="yes"/>
+      <point x="266" y="415"/>
+      <point x="254" y="390"/>
+      <point x="222" y="390" type="curve" smooth="yes"/>
+      <point x="191" y="390"/>
+      <point x="178" y="415"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 3}</string>
+          <key>target</key>
+          <string>{1, 2}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 11}</string>
+          <key>target</key>
+          <string>{2, 11}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 5}</string>
+          <key>target</key>
+          <string>{2, 5}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

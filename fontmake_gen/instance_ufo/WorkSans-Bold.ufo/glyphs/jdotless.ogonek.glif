@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotless.ogonek" format="2">
+  <advance width="338"/>
+  <anchor x="192" y="500" name="top"/>
+  <anchor x="164" y="-204" name="ogonek"/>
+  <anchor x="143" y="-210" name="bottom"/>
+  <anchor x="143" y="-210" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="107" y="500" type="line"/>
+      <point x="107" y="-25" type="line" smooth="yes"/>
+      <point x="107" y="-74"/>
+      <point x="95" y="-91"/>
+      <point x="70" y="-91" type="curve" smooth="yes"/>
+      <point x="53" y="-91"/>
+      <point x="42" y="-88"/>
+      <point x="31" y="-80" type="curve"/>
+      <point x="8" y="-201" type="line"/>
+      <point x="33" y="-211"/>
+      <point x="55" y="-215"/>
+      <point x="89" y="-215" type="curve" smooth="yes"/>
+      <point x="184" y="-215"/>
+      <point x="277" y="-183"/>
+      <point x="277" y="-34" type="curve" smooth="yes"/>
+      <point x="277" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/20 21:24:41</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=idotless</string>
+    </dict>
+  </lib>
+</glyph>

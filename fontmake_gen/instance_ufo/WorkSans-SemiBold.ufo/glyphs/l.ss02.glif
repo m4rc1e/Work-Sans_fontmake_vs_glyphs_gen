@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.ss02" format="2">
+  <advance width="284"/>
+  <anchor x="142" y="0" name="bottom"/>
+  <anchor x="142" y="719" name="top"/>
+  <anchor x="204" y="4" name="ogonek"/>
+  <anchor x="280" y="719" name="topright"/>
+  <anchor x="142" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="74" y="719" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="211" y="0" type="line"/>
+      <point x="211" y="719" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:11:03</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="622"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="356" y="-96" type="line"/>
+      <point x="356" y="1" type="line"/>
+      <point x="484" y="12"/>
+      <point x="570" y="80"/>
+      <point x="570" y="186" type="curve" smooth="yes"/>
+      <point x="570" y="311"/>
+      <point x="461" y="342"/>
+      <point x="356" y="364" type="curve"/>
+      <point x="356" y="575" type="line"/>
+      <point x="425" y="567"/>
+      <point x="466" y="533"/>
+      <point x="500" y="461" type="curve"/>
+      <point x="571" y="526" type="line"/>
+      <point x="523" y="605"/>
+      <point x="463" y="650"/>
+      <point x="356" y="658" type="curve"/>
+      <point x="356" y="756" type="line"/>
+      <point x="279" y="756" type="line"/>
+      <point x="279" y="659" type="line"/>
+      <point x="144" y="647"/>
+      <point x="65" y="567"/>
+      <point x="65" y="466" type="curve" smooth="yes"/>
+      <point x="65" y="343"/>
+      <point x="174" y="314"/>
+      <point x="279" y="292" type="curve"/>
+      <point x="279" y="84" type="line"/>
+      <point x="203" y="97"/>
+      <point x="137" y="144"/>
+      <point x="118" y="214" type="curve"/>
+      <point x="41" y="158" type="line"/>
+      <point x="81" y="65"/>
+      <point x="160" y="11"/>
+      <point x="279" y="1" type="curve"/>
+      <point x="279" y="-96" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="275" type="line"/>
+      <point x="420" y="259"/>
+      <point x="471" y="237"/>
+      <point x="471" y="179" type="curve" smooth="yes"/>
+      <point x="471" y="119"/>
+      <point x="427" y="90"/>
+      <point x="356" y="83" type="curve"/>
+    </contour>
+    <contour>
+      <point x="165" y="473" type="curve" smooth="yes"/>
+      <point x="165" y="530"/>
+      <point x="204" y="567"/>
+      <point x="279" y="575" type="curve"/>
+      <point x="279" y="380" type="line"/>
+      <point x="215" y="395"/>
+      <point x="165" y="417"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 33}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 32}</string>
+          <key>target</key>
+          <string>{0, 25}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 18}</string>
+          <key>target</key>
+          <string>{2, 5}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 17}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>411</integer>
+          <key>y</key>
+          <integer>760</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>423</integer>
+          <key>y</key>
+          <integer>-100</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

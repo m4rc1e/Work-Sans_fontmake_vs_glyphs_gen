@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+  <advance width="919"/>
+  <unicode hex="0057"/>
+  <anchor x="674" y="0" name="bottomC"/>
+  <anchor x="460" y="660" name="top"/>
+  <anchor x="680" y="0" name="ogonek"/>
+  <anchor x="460" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="459" y="627" type="line"/>
+      <point x="460" y="627" type="line"/>
+      <point x="500" y="488" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="893" y="660" type="line"/>
+      <point x="864" y="660" type="line"/>
+      <point x="662" y="24" type="line"/>
+      <point x="477" y="660" type="line"/>
+      <point x="443" y="660" type="line"/>
+      <point x="257" y="25" type="line"/>
+      <point x="55" y="660" type="line"/>
+      <point x="25" y="660" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="420" y="488" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 18:49:18</string>
+    </dict>
+  </lib>
+</glyph>

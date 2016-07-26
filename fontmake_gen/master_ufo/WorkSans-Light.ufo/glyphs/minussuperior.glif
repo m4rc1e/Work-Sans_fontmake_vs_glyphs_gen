@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minussuperior" format="2">
+  <advance width="330"/>
+  <unicode hex="207B"/>
+  <outline>
+    <contour>
+      <point x="290" y="526" type="line"/>
+      <point x="290" y="540" type="line"/>
+      <point x="40" y="540" type="line"/>
+      <point x="40" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

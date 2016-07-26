@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="2">
+  <advance width="201"/>
+  <unicode hex="006A"/>
+  <anchor x="8" y="-210" name="bottomC"/>
+  <anchor x="101" y="646" name="top"/>
+  <anchor x="34" y="-204" name="ogonek"/>
+  <anchor x="8" y="-210" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="71" y="627" type="curve" smooth="yes"/>
+      <point x="71" y="610"/>
+      <point x="84" y="598"/>
+      <point x="101" y="598" type="curve" smooth="yes"/>
+      <point x="117" y="598"/>
+      <point x="130" y="610"/>
+      <point x="130" y="627" type="curve" smooth="yes"/>
+      <point x="130" y="644"/>
+      <point x="117" y="656"/>
+      <point x="101" y="656" type="curve" smooth="yes"/>
+      <point x="84" y="656"/>
+      <point x="71" y="644"/>
+    </contour>
+    <component base="jdotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/20 21:21:27</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{-215, 14}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>place</key>
+          <string>{500, -20}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 5}</string>
+          <key>target</key>
+          <string>{0, 11}</string>
+        </dict>
+        <dict>
+          <key>place</key>
+          <string>{85, 16}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

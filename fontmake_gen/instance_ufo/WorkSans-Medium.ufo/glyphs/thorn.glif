@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thorn" format="2">
+  <advance width="629"/>
+  <unicode hex="00FE"/>
+  <anchor x="137" y="725" name="top"/>
+  <anchor x="454" y="16" name="ogonek"/>
+  <anchor x="137" y="-210" name="bottom"/>
+  <anchor x="343" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="83" y="725" type="line"/>
+      <point x="83" y="-210" type="line"/>
+      <point x="190" y="-210" type="line"/>
+      <point x="190" y="725" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="327" type="curve"/>
+      <point x="190" y="256" type="line"/>
+      <point x="190" y="361"/>
+      <point x="244" y="424"/>
+      <point x="328" y="424" type="curve" smooth="yes"/>
+      <point x="415" y="424"/>
+      <point x="466" y="359"/>
+      <point x="466" y="250" type="curve" smooth="yes"/>
+      <point x="466" y="141"/>
+      <point x="415" y="77"/>
+      <point x="328" y="77" type="curve" smooth="yes"/>
+      <point x="244" y="77"/>
+      <point x="190" y="140"/>
+      <point x="190" y="244" type="curve"/>
+      <point x="162" y="173" type="line"/>
+      <point x="162" y="72"/>
+      <point x="234" y="-10"/>
+      <point x="352" y="-10" type="curve" smooth="yes"/>
+      <point x="479" y="-10"/>
+      <point x="573" y="78"/>
+      <point x="573" y="251" type="curve" smooth="yes"/>
+      <point x="573" y="418"/>
+      <point x="484" y="510"/>
+      <point x="353" y="510" type="curve" smooth="yes"/>
+      <point x="235" y="510"/>
+      <point x="163" y="426"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:11:46</string>
+    </dict>
+  </lib>
+</glyph>

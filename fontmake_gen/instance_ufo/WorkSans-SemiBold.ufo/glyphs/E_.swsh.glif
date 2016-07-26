@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.swsh" format="2">
+  <advance width="880"/>
+  <anchor x="576" y="660" name="top"/>
+  <anchor x="842" y="0" name="ogonek"/>
+  <anchor x="582" y="0" name="bottom"/>
+  <anchor x="582" y="0" name="bottomC"/>
+  <outline>
+    <component base="__swash_topleft" xOffset="-48"/>
+    <component base="E" xOffset="247"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 08:52:16</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>F.swsh</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

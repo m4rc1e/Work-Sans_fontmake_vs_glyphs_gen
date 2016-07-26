@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_idieresis" format="2">
+  <advance width="704"/>
+  <anchor x="610" y="0" name="bottomC"/>
+  <anchor x="603" y="500" name="top"/>
+  <anchor x="617" y="0" name="ogonek"/>
+  <anchor x="603" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="378" y="468" type="curve"/>
+      <point x="398" y="460" type="line"/>
+      <point x="398" y="526"/>
+      <point x="435" y="568"/>
+      <point x="503" y="568" type="curve"/>
+      <point x="495" y="592" type="line"/>
+      <point x="424" y="592"/>
+      <point x="378" y="544"/>
+    </contour>
+    <component base="gbase" xOffset="-14"/>
+    <component base="idieresis" xOffset="503"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>idieresis</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

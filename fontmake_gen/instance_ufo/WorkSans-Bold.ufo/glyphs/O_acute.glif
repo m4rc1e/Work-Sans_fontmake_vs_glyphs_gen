@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute" format="2">
+  <advance width="737"/>
+  <unicode hex="00D3"/>
+  <anchor x="369" y="0" name="bottomC"/>
+  <anchor x="369" y="660" name="top"/>
+  <anchor x="452" y="0" name="ogonek"/>
+  <anchor x="369" y="0" name="bottom"/>
+  <outline>
+    <component base="O"/>
+    <component base="acutecmb.cap" xOffset="369"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

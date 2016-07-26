@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.swsh" format="2">
+  <advance width="608"/>
+  <anchor x="269" y="500" name="top"/>
+  <anchor x="231" y="0" name="ogonek"/>
+  <anchor x="147" y="0" name="bottom"/>
+  <anchor x="146" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="612" y="425" type="line"/>
+      <point x="505" y="441"/>
+      <point x="492" y="510"/>
+      <point x="375" y="510" type="curve" smooth="yes"/>
+      <point x="281" y="510"/>
+      <point x="201" y="449"/>
+      <point x="201" y="262" type="curve"/>
+      <point x="231" y="240" type="line"/>
+      <point x="231" y="312"/>
+      <point x="273" y="371"/>
+      <point x="353" y="371" type="curve" smooth="yes"/>
+      <point x="422" y="371"/>
+      <point x="450" y="320"/>
+      <point x="533" y="304" type="curve"/>
+    </contour>
+    <contour>
+      <point x="231" y="0" type="line"/>
+      <point x="231" y="317" type="line"/>
+      <point x="222" y="337" type="line"/>
+      <point x="211" y="500" type="line"/>
+      <point x="61" y="500" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 21:21:08</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

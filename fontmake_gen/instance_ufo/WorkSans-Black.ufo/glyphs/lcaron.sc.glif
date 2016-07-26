@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.sc" format="2">
+  <advance width="575"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="167" y="560" name="top"/>
+  <anchor x="549" y="0" name="ogonek"/>
+  <anchor x="366" y="560" name="topright"/>
+  <anchor x="314" y="0" name="bottomC"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="caron.alt" xScale="1.2" xOffset="304" yOffset="-140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

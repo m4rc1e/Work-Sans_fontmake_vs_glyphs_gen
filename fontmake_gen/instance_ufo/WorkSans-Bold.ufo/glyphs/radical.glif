@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="2">
+  <advance width="687"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="584" y="818" type="line"/>
+      <point x="369" y="242" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="729" y="818" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="448" type="line"/>
+      <point x="15" y="319" type="line"/>
+      <point x="117" y="319" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="289" y="232" type="line"/>
+      <point x="206" y="448" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftrightarrow" format="2">
+  <advance width="1098"/>
+  <unicode hex="2194"/>
+  <outline>
+    <component base="updownarrow" xScale="0.0" xyScale="1.0" yxScale="-1.0" yScale="0.0" xOffset="879" yOffset="-25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|rightarrow</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>rightarrow</string>
+    </dict>
+  </lib>
+</glyph>

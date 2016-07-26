@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0137" format="2">
+  <advance width="527"/>
+  <unicode hex="0137"/>
+  <anchor x="114" y="730" name="top"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <outline>
+    <component base="k"/>
+    <component base="commaaccent" xOffset="313"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:08:09</string>
+    </dict>
+  </lib>
+</glyph>

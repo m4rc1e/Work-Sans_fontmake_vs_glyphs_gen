@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek" format="2">
+  <advance width="579"/>
+  <unicode hex="0105"/>
+  <anchor x="277" y="500" name="top"/>
+  <anchor x="519" y="-210" name="ogonek"/>
+  <anchor x="277" y="-210" name="bottom"/>
+  <anchor x="495" y="-210" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="40" y="353" type="curve"/>
+      <point x="177" y="318" type="line"/>
+      <point x="189" y="373"/>
+      <point x="223" y="393"/>
+      <point x="266" y="393" type="curve" smooth="yes"/>
+      <point x="314" y="393"/>
+      <point x="340" y="364"/>
+      <point x="340" y="319" type="curve" smooth="yes"/>
+      <point x="340" y="118" type="line"/>
+      <point x="368" y="120" type="line" smooth="yes"/>
+      <point x="368" y="40"/>
+      <point x="420" y="1"/>
+      <point x="498" y="1" type="curve" smooth="yes"/>
+      <point x="519" y="1"/>
+      <point x="543" y="1"/>
+      <point x="563" y="3" type="curve"/>
+      <point x="575" y="101" type="line"/>
+      <point x="567" y="98"/>
+      <point x="556" y="97"/>
+      <point x="544" y="97" type="curve" smooth="yes"/>
+      <point x="520" y="97"/>
+      <point x="509" y="110"/>
+      <point x="509" y="136" type="curve" smooth="yes"/>
+      <point x="509" y="318" type="line" smooth="yes"/>
+      <point x="509" y="447"/>
+      <point x="427" y="510"/>
+      <point x="274" y="510" type="curve" smooth="yes"/>
+      <point x="137" y="510"/>
+      <point x="56" y="449"/>
+    </contour>
+    <contour>
+      <point x="332" y="-102" type="curve" smooth="yes"/>
+      <point x="332" y="-179"/>
+      <point x="392" y="-215"/>
+      <point x="470" y="-215" type="curve" smooth="yes"/>
+      <point x="512" y="-215"/>
+      <point x="545" y="-209"/>
+      <point x="572" y="-192" type="curve"/>
+      <point x="549" y="-110" type="line"/>
+      <point x="537" y="-118"/>
+      <point x="519" y="-120"/>
+      <point x="503" y="-120" type="curve" smooth="yes"/>
+      <point x="469" y="-120"/>
+      <point x="451" y="-103"/>
+      <point x="451" y="-76" type="curve" smooth="yes"/>
+      <point x="451" y="-37"/>
+      <point x="483" y="-13"/>
+      <point x="563" y="3" type="curve"/>
+      <point x="485" y="27" type="line"/>
+      <point x="389" y="14"/>
+      <point x="332" y="-30"/>
+    </contour>
+    <contour>
+      <point x="227" y="274" type="line" smooth="yes"/>
+      <point x="91" y="247"/>
+      <point x="32" y="195"/>
+      <point x="32" y="115" type="curve" smooth="yes"/>
+      <point x="32" y="33"/>
+      <point x="92" y="-10"/>
+      <point x="193" y="-10" type="curve" smooth="yes"/>
+      <point x="313" y="-10"/>
+      <point x="386" y="61"/>
+      <point x="386" y="148" type="curve"/>
+      <point x="340" y="166" type="line"/>
+      <point x="340" y="119"/>
+      <point x="299" y="93"/>
+      <point x="253" y="93" type="curve" smooth="yes"/>
+      <point x="218" y="93"/>
+      <point x="195" y="108"/>
+      <point x="195" y="140" type="curve" smooth="yes"/>
+      <point x="195" y="173"/>
+      <point x="223" y="196"/>
+      <point x="275" y="208" type="curve" smooth="yes"/>
+      <point x="388" y="234" type="line"/>
+      <point x="373" y="303" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 18:37:26</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=a</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 5}</string>
+          <key>target</key>
+          <string>{1, 12}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{2, 6}</string>
+          <key>target</key>
+          <string>{2, 13}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 28}</string>
+          <key>target</key>
+          <string>{0, 6}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 16}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{2, 3}</string>
+          <key>target</key>
+          <string>{2, 16}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 11}</string>
+          <key>target</key>
+          <string>{0, 24}</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>270</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>516</integer>
+          <key>y</key>
+          <integer>13</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

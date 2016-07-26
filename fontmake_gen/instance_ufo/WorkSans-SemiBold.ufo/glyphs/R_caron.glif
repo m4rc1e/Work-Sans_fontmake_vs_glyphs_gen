@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+  <advance width="680"/>
+  <unicode hex="0158"/>
+  <anchor x="587" y="0" name="bottomC"/>
+  <anchor x="327" y="660" name="top"/>
+  <anchor x="656" y="0" name="ogonek"/>
+  <anchor x="364" y="0" name="bottom"/>
+  <outline>
+    <component base="R"/>
+    <component base="caroncmb.cap" xOffset="327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

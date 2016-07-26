@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="indexring" format="2">
+  <advance width="910"/>
+  <anchor x="455" y="330" name="indexring"/>
+  <outline>
+    <contour>
+      <point x="821" y="330" type="curve" smooth="yes"/>
+      <point x="821" y="546"/>
+      <point x="669" y="700"/>
+      <point x="455" y="700" type="curve" smooth="yes"/>
+      <point x="241" y="700"/>
+      <point x="89" y="546"/>
+      <point x="89" y="330" type="curve" smooth="yes"/>
+      <point x="89" y="114"/>
+      <point x="241" y="-40"/>
+      <point x="455" y="-40" type="curve" smooth="yes"/>
+      <point x="669" y="-40"/>
+      <point x="821" y="114"/>
+    </contour>
+    <contour>
+      <point x="115" y="330" type="curve" smooth="yes"/>
+      <point x="115" y="533"/>
+      <point x="257" y="677"/>
+      <point x="455" y="677" type="curve" smooth="yes"/>
+      <point x="653" y="677"/>
+      <point x="796" y="533"/>
+      <point x="796" y="330" type="curve" smooth="yes"/>
+      <point x="796" y="127"/>
+      <point x="653" y="-17"/>
+      <point x="455" y="-17" type="curve" smooth="yes"/>
+      <point x="257" y="-17"/>
+      <point x="115" y="127"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

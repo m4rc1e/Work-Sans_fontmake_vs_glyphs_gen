@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.ss01_j.liga" format="2">
+  <advance width="776"/>
+  <anchor x="283" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="482" y="499" type="line"/>
+      <point x="479" y="338" type="line"/>
+      <point x="479" y="331" type="line"/>
+      <point x="479" y="10" type="line" smooth="yes"/>
+      <point x="479" y="-114"/>
+      <point x="402" y="-191"/>
+      <point x="276" y="-191" type="curve" smooth="yes"/>
+      <point x="174" y="-191"/>
+      <point x="109" y="-149"/>
+      <point x="96" y="-79" type="curve"/>
+      <point x="69" y="-90" type="line"/>
+      <point x="85" y="-170"/>
+      <point x="164" y="-215"/>
+      <point x="273" y="-215" type="curve" smooth="yes"/>
+      <point x="422" y="-215"/>
+      <point x="507" y="-132"/>
+      <point x="507" y="14" type="curve" smooth="yes"/>
+      <point x="507" y="394" type="line"/>
+      <point x="507" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="251" type="curve" smooth="yes"/>
+      <point x="53" y="89"/>
+      <point x="140" y="-8"/>
+      <point x="282" y="-8" type="curve" smooth="yes"/>
+      <point x="409" y="-8"/>
+      <point x="492" y="79"/>
+      <point x="492" y="219" type="curve"/>
+      <point x="479" y="247" type="line"/>
+      <point x="479" y="103"/>
+      <point x="402" y="16"/>
+      <point x="286" y="16" type="curve" smooth="yes"/>
+      <point x="158" y="16"/>
+      <point x="82" y="104"/>
+      <point x="82" y="251" type="curve" smooth="yes"/>
+      <point x="82" y="398"/>
+      <point x="158" y="486"/>
+      <point x="286" y="486" type="curve" smooth="yes"/>
+      <point x="403" y="486"/>
+      <point x="480" y="398"/>
+      <point x="479" y="255" type="curve"/>
+      <point x="492" y="281" type="line"/>
+      <point x="492" y="423"/>
+      <point x="409" y="510"/>
+      <point x="282" y="510" type="curve" smooth="yes"/>
+      <point x="140" y="510"/>
+      <point x="53" y="413"/>
+    </contour>
+    <contour>
+      <point x="680" y="500" type="line"/>
+      <point x="680" y="-60" type="line" smooth="yes"/>
+      <point x="680" y="-141"/>
+      <point x="637" y="-189"/>
+      <point x="572" y="-189" type="curve" smooth="yes"/>
+      <point x="546" y="-189"/>
+      <point x="520" y="-181"/>
+      <point x="503" y="-165" type="curve"/>
+      <point x="496" y="-191" type="line"/>
+      <point x="513" y="-206"/>
+      <point x="542" y="-215"/>
+      <point x="572" y="-215" type="curve" smooth="yes"/>
+      <point x="650" y="-215"/>
+      <point x="708" y="-160"/>
+      <point x="708" y="-62" type="curve" smooth="yes"/>
+      <point x="708" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="665" y="627" type="curve" smooth="yes"/>
+      <point x="665" y="610"/>
+      <point x="677" y="598"/>
+      <point x="694" y="598" type="curve" smooth="yes"/>
+      <point x="711" y="598"/>
+      <point x="723" y="610"/>
+      <point x="723" y="627" type="curve" smooth="yes"/>
+      <point x="723" y="644"/>
+      <point x="711" y="656"/>
+      <point x="694" y="656" type="curve" smooth="yes"/>
+      <point x="677" y="656"/>
+      <point x="665" y="644"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g.ss01</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j.ogonek</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 13}</string>
+          <key>target</key>
+          <string>{0, 6}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 5}</string>
+          <key>target</key>
+          <string>{1, 12}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 25}</string>
+          <key>target</key>
+          <string>{1, 18}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{1, 2}</string>
+          <key>target</key>
+          <string>{1, 15}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{2, 1}</string>
+          <key>target</key>
+          <string>{2, 14}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 3}</string>
+          <key>target</key>
+          <string>{0, 16}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

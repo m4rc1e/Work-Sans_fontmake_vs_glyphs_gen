@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="2">
+  <advance width="604"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="215" y="606" type="line"/>
+      <point x="215" y="55" type="line"/>
+      <point x="390" y="55" type="line"/>
+      <point x="390" y="606" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="407" type="line"/>
+      <point x="45" y="254" type="line"/>
+      <point x="559" y="254" type="line"/>
+      <point x="559" y="407" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

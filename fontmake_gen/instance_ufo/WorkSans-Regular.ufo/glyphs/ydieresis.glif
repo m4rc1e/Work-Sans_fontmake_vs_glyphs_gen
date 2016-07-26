@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="2">
+  <advance width="535"/>
+  <unicode hex="00FF"/>
+  <anchor x="273" y="500" name="top"/>
+  <anchor x="164" y="-210" name="ogonek"/>
+  <anchor x="159" y="-210" name="bottom"/>
+  <anchor x="123" y="-210" name="bottomC"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresis" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

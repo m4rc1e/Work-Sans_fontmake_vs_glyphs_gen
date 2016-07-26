@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="2">
+  <advance width="407"/>
+  <unicode hex="0326"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-78" y="-55" type="line"/>
+      <point x="-105" y="-242" type="line"/>
+      <point x="22" y="-242" type="line"/>
+      <point x="95" y="-55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 09:01:05</string>
+    </dict>
+  </lib>
+</glyph>

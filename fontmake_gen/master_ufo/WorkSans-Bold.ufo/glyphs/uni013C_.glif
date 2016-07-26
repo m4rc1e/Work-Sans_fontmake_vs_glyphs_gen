@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni013C" format="2">
+  <advance width="341"/>
+  <unicode hex="013C"/>
+  <anchor x="311" y="352" name="center"/>
+  <anchor x="174" y="0" name="bottom"/>
+  <anchor x="144" y="700" name="top"/>
+  <anchor x="220" y="0" name="bottomC"/>
+  <anchor x="317" y="700" name="topright"/>
+  <anchor x="278" y="0" name="ogonek"/>
+  <outline>
+    <component base="l"/>
+    <component base="commaaccent" xOffset="174"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:08:09</string>
+    </dict>
+  </lib>
+</glyph>

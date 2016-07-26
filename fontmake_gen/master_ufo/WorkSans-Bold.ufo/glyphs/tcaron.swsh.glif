@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron.swsh" format="2">
+  <advance width="565"/>
+  <anchor x="156" y="250" name="center"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="193" y="730" name="top"/>
+  <anchor x="284" y="0" name="bottomC"/>
+  <anchor x="367" y="767" name="topright"/>
+  <anchor x="407" y="10" name="ogonek"/>
+  <outline>
+    <component base="t.swsh"/>
+    <component base="caron.alt" yScale="0.85" xOffset="315" yOffset="172"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni015E" format="2">
+  <advance width="646"/>
+  <unicode hex="015E"/>
+  <anchor x="338" y="-210" name="bottom"/>
+  <anchor x="330" y="-210" name="bottomC"/>
+  <anchor x="368" y="-210" name="ogonek"/>
+  <anchor x="331" y="660" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="cedilla" xOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 10:56:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=S</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=S</string>
+    </dict>
+  </lib>
+</glyph>

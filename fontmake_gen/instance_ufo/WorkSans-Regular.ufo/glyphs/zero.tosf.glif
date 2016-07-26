@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tosf" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="65" y="280" type="curve" smooth="yes"/>
+      <point x="65" y="91"/>
+      <point x="148" y="-10"/>
+      <point x="302" y="-10" type="curve" smooth="yes"/>
+      <point x="456" y="-10"/>
+      <point x="539" y="91"/>
+      <point x="539" y="280" type="curve" smooth="yes"/>
+      <point x="539" y="469"/>
+      <point x="456" y="570"/>
+      <point x="302" y="570" type="curve" smooth="yes"/>
+      <point x="148" y="570"/>
+      <point x="65" y="469"/>
+    </contour>
+    <contour>
+      <point x="459" y="280" type="curve" smooth="yes"/>
+      <point x="459" y="134"/>
+      <point x="404" y="58"/>
+      <point x="302" y="58" type="curve" smooth="yes"/>
+      <point x="200" y="58"/>
+      <point x="145" y="134"/>
+      <point x="145" y="280" type="curve" smooth="yes"/>
+      <point x="145" y="426"/>
+      <point x="200" y="502"/>
+      <point x="302" y="502" type="curve" smooth="yes"/>
+      <point x="404" y="502"/>
+      <point x="459" y="426"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

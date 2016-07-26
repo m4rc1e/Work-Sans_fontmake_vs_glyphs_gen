@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="2">
+  <advance width="706"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="480"/>
+    <component base="period" xOffset="243"/>
+    <component base="period" xOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=period*1.1</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=period*1.1</string>
+    </dict>
+  </lib>
+</glyph>

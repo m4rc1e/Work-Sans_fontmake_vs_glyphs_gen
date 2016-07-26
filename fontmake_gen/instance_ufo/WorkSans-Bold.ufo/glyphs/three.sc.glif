@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.sc" format="2">
+  <advance width="552"/>
+  <outline>
+    <contour>
+      <point x="44" y="422" type="curve"/>
+      <point x="190" y="378" type="line"/>
+      <point x="193" y="421"/>
+      <point x="220" y="446"/>
+      <point x="267" y="446" type="curve" smooth="yes"/>
+      <point x="314" y="446"/>
+      <point x="336" y="422"/>
+      <point x="335" y="388" type="curve" smooth="yes"/>
+      <point x="335" y="348"/>
+      <point x="310" y="327"/>
+      <point x="259" y="327" type="curve" smooth="yes"/>
+      <point x="227" y="327" type="line"/>
+      <point x="227" y="231" type="line"/>
+      <point x="270" y="231" type="line" smooth="yes"/>
+      <point x="322" y="231"/>
+      <point x="347" y="217"/>
+      <point x="347" y="177" type="curve" smooth="yes"/>
+      <point x="347" y="138"/>
+      <point x="317" y="114"/>
+      <point x="269" y="114" type="curve" smooth="yes"/>
+      <point x="209" y="114"/>
+      <point x="185" y="139"/>
+      <point x="179" y="192" type="curve"/>
+      <point x="27" y="133" type="line"/>
+      <point x="63" y="30"/>
+      <point x="145" y="-8"/>
+      <point x="277" y="-8" type="curve" smooth="yes"/>
+      <point x="410" y="-8"/>
+      <point x="508" y="59"/>
+      <point x="508" y="161" type="curve" smooth="yes"/>
+      <point x="508" y="254"/>
+      <point x="432" y="282"/>
+      <point x="384" y="281" type="curve"/>
+      <point x="384" y="283" type="line"/>
+      <point x="426" y="284"/>
+      <point x="496" y="313"/>
+      <point x="496" y="412" type="curve" smooth="yes"/>
+      <point x="496" y="497"/>
+      <point x="420" y="568"/>
+      <point x="278" y="568" type="curve" smooth="yes"/>
+      <point x="159" y="568"/>
+      <point x="59" y="519"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 28}</string>
+          <key>target</key>
+          <string>{0, 21}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 41}</string>
+          <key>target</key>
+          <string>{0, 6}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

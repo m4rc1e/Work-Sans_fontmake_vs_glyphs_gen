@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.swsh" format="2">
+  <advance width="439"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="300" y="0" name="bottomC"/>
+  <anchor x="164" y="250" name="center"/>
+  <anchor x="373" y="17" name="ogonek"/>
+  <anchor x="171" y="730" name="top"/>
+  <anchor x="292" y="767" name="topright"/>
+  <outline>
+    <contour>
+      <point x="131" y="620" type="line"/>
+      <point x="131" y="124" type="line" smooth="yes"/>
+      <point x="132" y="27"/>
+      <point x="196" y="-10"/>
+      <point x="270" y="-10" type="curve" smooth="yes"/>
+      <point x="325" y="-10"/>
+      <point x="368" y="7"/>
+      <point x="399" y="35" type="curve"/>
+      <point x="371" y="102" type="line"/>
+      <point x="348" y="79"/>
+      <point x="322" y="65"/>
+      <point x="286" y="65" type="curve" smooth="yes"/>
+      <point x="242" y="65"/>
+      <point x="211" y="89"/>
+      <point x="211" y="138" type="curve" smooth="yes"/>
+      <point x="211" y="642" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="513"/>
+      <point x="432" y="500"/>
+      <point x="349" y="500" type="curve" smooth="yes"/>
+      <point x="31" y="500" type="line"/>
+      <point x="31" y="431" type="line"/>
+      <point x="347" y="431" type="line" smooth="yes"/>
+      <point x="452" y="431"/>
+      <point x="500" y="449"/>
+      <point x="539" y="496" type="curve"/>
+      <point x="504" y="548" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/20 19:20:40</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

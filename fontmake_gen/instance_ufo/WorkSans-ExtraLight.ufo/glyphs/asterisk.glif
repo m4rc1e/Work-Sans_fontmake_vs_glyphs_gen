@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="2">
+  <advance width="522"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="261" y="510" type="line"/>
+      <point x="254" y="505" type="line"/>
+      <point x="302" y="430" type="line"/>
+      <point x="380" y="324" type="line"/>
+      <point x="400" y="339" type="line"/>
+      <point x="323" y="446" type="line"/>
+      <point x="268" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="199" y="446" type="line"/>
+      <point x="121" y="339" type="line"/>
+      <point x="142" y="324" type="line"/>
+      <point x="219" y="430" type="line"/>
+      <point x="268" y="505" type="line"/>
+      <point x="261" y="510" type="line"/>
+      <point x="254" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="566" type="line"/>
+      <point x="172" y="525" type="line"/>
+      <point x="258" y="502" type="line"/>
+      <point x="261" y="510" type="line"/>
+      <point x="264" y="518" type="line"/>
+      <point x="180" y="550" type="line"/>
+      <point x="55" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="730" type="line"/>
+      <point x="248" y="598" type="line"/>
+      <point x="252" y="510" type="line"/>
+      <point x="261" y="510" type="line"/>
+      <point x="269" y="510" type="line"/>
+      <point x="274" y="598" type="line"/>
+      <point x="274" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="550" type="line"/>
+      <point x="258" y="518" type="line"/>
+      <point x="261" y="510" type="line"/>
+      <point x="264" y="502" type="line"/>
+      <point x="349" y="525" type="line"/>
+      <point x="474" y="566" type="line"/>
+      <point x="467" y="590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

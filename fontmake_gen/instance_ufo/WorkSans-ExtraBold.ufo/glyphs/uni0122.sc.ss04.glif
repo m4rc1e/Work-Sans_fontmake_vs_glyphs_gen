@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0122.sc.ss04" format="2">
+  <advance width="640"/>
+  <anchor x="351" y="0" name="bottomC"/>
+  <anchor x="346" y="560" name="top"/>
+  <anchor x="418" y="0" name="ogonek"/>
+  <anchor x="379" y="0" name="bottom"/>
+  <outline>
+    <component base="g.sc.ss04"/>
+    <component base="commaaccent" xOffset="379"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:05:39</string>
+    </dict>
+  </lib>
+</glyph>

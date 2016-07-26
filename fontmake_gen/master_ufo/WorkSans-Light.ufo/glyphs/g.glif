@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="2">
+  <advance width="496"/>
+  <unicode hex="0067"/>
+  <anchor x="253" y="-210" name="bottom"/>
+  <anchor x="253" y="-210" name="bottomC"/>
+  <anchor x="399" y="-189" name="ogonek"/>
+  <anchor x="253" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="421" y="592"/>
+      <point x="379" y="544"/>
+      <point x="379" y="470" type="curve"/>
+      <point x="392" y="465" type="line"/>
+      <point x="392" y="533"/>
+      <point x="429" y="578"/>
+      <point x="496" y="578" type="curve"/>
+      <point x="491" y="592" type="line"/>
+    </contour>
+    <component base="gbase" xOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 18:55:03</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 7}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

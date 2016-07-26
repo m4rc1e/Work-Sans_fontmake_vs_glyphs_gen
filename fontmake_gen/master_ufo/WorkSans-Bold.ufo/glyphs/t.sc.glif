@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="2">
+  <advance width="645"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="350" y="0" name="bottomC"/>
+  <anchor x="325" y="229" name="center"/>
+  <anchor x="437" y="0" name="ogonek"/>
+  <anchor x="322" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="208" y="516" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="437" y="516" type="line"/>
+    </contour>
+    <contour>
+      <point x="27" y="560" type="line"/>
+      <point x="27" y="392" type="line"/>
+      <point x="618" y="392" type="line"/>
+      <point x="618" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 12:39:28</string>
+    </dict>
+  </lib>
+</glyph>

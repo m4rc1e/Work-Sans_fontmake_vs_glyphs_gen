@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+  <advance width="300"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="comma" xOffset="11"/>
+    <component base="period" xScale="-1.0" yScale="-1.0" xOffset="293" yOffset="501"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>70</integer>
+          <key>y</key>
+          <integer>20</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>129</integer>
+          <key>y</key>
+          <integer>-6</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

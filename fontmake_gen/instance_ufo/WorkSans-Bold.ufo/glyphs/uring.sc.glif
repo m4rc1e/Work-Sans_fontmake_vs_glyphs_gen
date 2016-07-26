@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring.sc" format="2">
+  <advance width="657"/>
+  <anchor x="329" y="0" name="bottomC"/>
+  <anchor x="328" y="560" name="top"/>
+  <anchor x="461" y="14" name="ogonek"/>
+  <anchor x="329" y="0" name="bottom"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="ring" xOffset="77" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>u.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u.sc</string>
+    </dict>
+  </lib>
+</glyph>

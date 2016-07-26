@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.sc" format="2">
+  <advance width="575"/>
+  <anchor x="299" y="560" name="top"/>
+  <anchor x="533" y="0" name="ogonek"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="308" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="87" y="560" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="84" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="533" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="324" type="line"/>
+      <point x="141" y="242" type="line"/>
+      <point x="451" y="242" type="line"/>
+      <point x="451" y="324" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="560" type="line"/>
+      <point x="141" y="476" type="line"/>
+      <point x="523" y="476" type="line"/>
+      <point x="523" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/04/09 14:17:55</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i.sc</string>
+    </dict>
+  </lib>
+</glyph>

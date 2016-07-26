@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.sc" format="2">
+  <advance width="699"/>
+  <anchor x="357" y="0" name="bottom"/>
+  <anchor x="588" y="0" name="bottomC"/>
+  <anchor x="704" y="0" name="ogonek"/>
+  <anchor x="344" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="458" y="560" type="line"/>
+      <point x="189" y="240" type="line"/>
+      <point x="244" y="79" type="line"/>
+      <point x="364" y="215" type="line"/>
+      <point x="386" y="199" type="line"/>
+      <point x="696" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="560" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="278" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="274" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="454" y="390" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/04/09 14:17:49</string>
+    </dict>
+  </lib>
+</glyph>

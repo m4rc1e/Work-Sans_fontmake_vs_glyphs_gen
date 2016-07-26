@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="2">
+  <advance width="717"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="9" y="660" type="line"/>
+      <point x="255" y="275" type="line"/>
+      <point x="462" y="275" type="line"/>
+      <point x="708" y="660" type="line"/>
+      <point x="477" y="660" type="line"/>
+      <point x="401" y="479" type="line"/>
+      <point x="360" y="374" type="line"/>
+      <point x="358" y="374" type="line"/>
+      <point x="317" y="478" type="line"/>
+      <point x="241" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="0" type="line"/>
+      <point x="472" y="265" type="line"/>
+      <point x="245" y="265" type="line"/>
+      <point x="245" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="131" type="line"/>
+      <point x="663" y="190" type="line"/>
+      <point x="54" y="190" type="line"/>
+      <point x="54" y="131" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="251" type="line"/>
+      <point x="663" y="310" type="line"/>
+      <point x="553" y="310" type="line"/>
+      <point x="359" y="300" type="line"/>
+      <point x="164" y="310" type="line"/>
+      <point x="54" y="310" type="line"/>
+      <point x="54" y="251" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=Y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=Y</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 0}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 3}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>294</integer>
+          <key>y</key>
+          <integer>478</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

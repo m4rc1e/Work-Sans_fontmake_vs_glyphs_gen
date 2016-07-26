@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+  <advance width="524"/>
+  <unicode hex="00E7"/>
+  <anchor x="275" y="500" name="top"/>
+  <anchor x="292" y="-197" name="ogonek"/>
+  <anchor x="275" y="-210" name="bottom"/>
+  <anchor x="258" y="-197" name="bottomC"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 18:24:06</string>
+    </dict>
+  </lib>
+</glyph>

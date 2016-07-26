@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u" format="2">
+  <advance width="619"/>
+  <unicode hex="0075"/>
+  <anchor x="306" y="500" name="top"/>
+  <anchor x="547" y="0" name="ogonek"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="496" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="69" y="500" type="line"/>
+      <point x="69" y="169" type="line" smooth="yes"/>
+      <point x="69" y="41"/>
+      <point x="144" y="-10"/>
+      <point x="245" y="-10" type="curve" smooth="yes"/>
+      <point x="368" y="-10"/>
+      <point x="447" y="61"/>
+      <point x="447" y="220" type="curve"/>
+      <point x="410" y="232" type="line"/>
+      <point x="410" y="139"/>
+      <point x="358" y="98"/>
+      <point x="293" y="98" type="curve" smooth="yes"/>
+      <point x="239" y="98"/>
+      <point x="206" y="123"/>
+      <point x="206" y="204" type="curve" smooth="yes"/>
+      <point x="206" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="500" type="line"/>
+      <point x="410" y="159" type="line"/>
+      <point x="417" y="134" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="547" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/01/03 08:46:10</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

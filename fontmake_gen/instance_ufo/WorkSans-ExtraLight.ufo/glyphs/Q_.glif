@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="720"/>
+  <unicode hex="0051"/>
+  <anchor x="515" y="-191" name="bottomC"/>
+  <anchor x="360" y="660" name="top"/>
+  <anchor x="577" y="-191" name="ogonek"/>
+  <anchor x="360" y="-210" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="352" y="1" type="line"/>
+      <point x="356" y="-130"/>
+      <point x="433" y="-195"/>
+      <point x="536" y="-195" type="curve" smooth="yes"/>
+      <point x="585" y="-195"/>
+      <point x="627" y="-181"/>
+      <point x="654" y="-156" type="curve"/>
+      <point x="643" y="-131" type="line"/>
+      <point x="617" y="-158"/>
+      <point x="577" y="-168"/>
+      <point x="536" y="-168" type="curve" smooth="yes"/>
+      <point x="445" y="-168"/>
+      <point x="380" y="-115"/>
+      <point x="377" y="4" type="curve"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 18:43:31</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 3}</string>
+          <key>target</key>
+          <string>{0, 10}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

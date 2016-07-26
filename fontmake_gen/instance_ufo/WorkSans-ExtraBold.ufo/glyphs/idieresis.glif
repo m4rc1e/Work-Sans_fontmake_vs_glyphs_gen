@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="2">
+  <advance width="300"/>
+  <unicode hex="00EF"/>
+  <anchor x="150" y="0" name="bottomC"/>
+  <anchor x="150" y="500" name="top"/>
+  <anchor x="236" y="8" name="ogonek"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="341" y="631" type="curve" smooth="yes"/>
+      <point x="341" y="688"/>
+      <point x="310" y="718"/>
+      <point x="252" y="718" type="curve" smooth="yes"/>
+      <point x="193" y="718"/>
+      <point x="163" y="688"/>
+      <point x="163" y="631" type="curve" smooth="yes"/>
+      <point x="163" y="573"/>
+      <point x="193" y="544"/>
+      <point x="252" y="544" type="curve" smooth="yes"/>
+      <point x="310" y="544"/>
+      <point x="341" y="573"/>
+    </contour>
+    <contour>
+      <point x="137" y="631" type="curve" smooth="yes"/>
+      <point x="137" y="688"/>
+      <point x="107" y="718"/>
+      <point x="48" y="718" type="curve" smooth="yes"/>
+      <point x="-10" y="718"/>
+      <point x="-41" y="688"/>
+      <point x="-41" y="631" type="curve" smooth="yes"/>
+      <point x="-41" y="573"/>
+      <point x="-10" y="544"/>
+      <point x="48" y="544" type="curve" smooth="yes"/>
+      <point x="107" y="544"/>
+      <point x="137" y="573"/>
+    </contour>
+    <component base="idotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

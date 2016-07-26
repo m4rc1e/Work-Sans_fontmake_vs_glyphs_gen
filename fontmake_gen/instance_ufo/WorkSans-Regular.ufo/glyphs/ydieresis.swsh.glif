@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.swsh" format="2">
+  <advance width="547"/>
+  <anchor x="273" y="500" name="top"/>
+  <anchor x="164" y="-210" name="ogonek"/>
+  <anchor x="159" y="-210" name="bottom"/>
+  <anchor x="123" y="-210" name="bottomC"/>
+  <outline>
+    <component base="y.swsh"/>
+    <component base="dieresis" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:08:09</string>
+    </dict>
+  </lib>
+</glyph>

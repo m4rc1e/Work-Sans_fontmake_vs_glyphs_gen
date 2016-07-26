@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ntilde.swsh" format="2">
+  <advance width="739"/>
+  <anchor x="562" y="0" name="bottomC"/>
+  <anchor x="372" y="660" name="top"/>
+  <anchor x="653" y="0" name="ogonek"/>
+  <anchor x="388" y="0" name="bottom"/>
+  <outline>
+    <component base="N.swsh"/>
+    <component base="tilde" xOffset="121" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:24:26</string>
+    </dict>
+  </lib>
+</glyph>

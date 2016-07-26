@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+  <advance width="201"/>
+  <unicode hex="012F"/>
+  <anchor x="107" y="0" name="bottomC"/>
+  <anchor x="101" y="646" name="top"/>
+  <anchor x="115" y="0" name="ogonek"/>
+  <anchor x="101" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="96" y="8" type="line"/>
+      <point x="33" y="-40"/>
+      <point x="3" y="-71"/>
+      <point x="3" y="-119" type="curve" smooth="yes"/>
+      <point x="3" y="-173"/>
+      <point x="45" y="-204"/>
+      <point x="94" y="-204" type="curve" smooth="yes"/>
+      <point x="125" y="-204"/>
+      <point x="143" y="-200"/>
+      <point x="162" y="-183" type="curve"/>
+      <point x="153" y="-163" type="line"/>
+      <point x="137" y="-178"/>
+      <point x="122" y="-183"/>
+      <point x="95" y="-183" type="curve" smooth="yes"/>
+      <point x="59" y="-183"/>
+      <point x="28" y="-158"/>
+      <point x="28" y="-118" type="curve" smooth="yes"/>
+      <point x="28" y="-76"/>
+      <point x="53" y="-49"/>
+      <point x="115" y="0" type="curve"/>
+    </contour>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 20:15:13</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 6}</string>
+          <key>target</key>
+          <string>{0, 13}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

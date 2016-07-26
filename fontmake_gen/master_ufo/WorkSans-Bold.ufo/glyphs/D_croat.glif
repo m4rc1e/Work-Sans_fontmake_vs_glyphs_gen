@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="2">
+  <advance width="744"/>
+  <unicode hex="0110"/>
+  <anchor x="359" y="0" name="bottom"/>
+  <anchor x="376" y="0" name="bottomC"/>
+  <anchor x="402" y="0" name="ogonek"/>
+  <anchor x="359" y="660" name="top"/>
+  <anchor x="43" y="14" name="center"/>
+  <outline>
+    <contour>
+      <point x="4" y="403" type="line"/>
+      <point x="4" y="253" type="line"/>
+      <point x="397" y="253" type="line"/>
+      <point x="397" y="403" type="line"/>
+    </contour>
+    <component base="D" xOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/21 08:16:23</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Bold [201]</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>bottom</string>
+              <key>x</key>
+              <integer>361</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>bottomC</string>
+              <key>x</key>
+              <integer>378</integer>
+              <key>y</key>
+              <integer>0</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>ogonek</string>
+              <key>x</key>
+              <integer>433</integer>
+              <key>y</key>
+              <integer>1</integer>
+            </dict>
+            <dict>
+              <key>name</key>
+              <string>top</string>
+              <key>x</key>
+              <integer>361</integer>
+              <key>y</key>
+              <integer>660</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>D</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>30</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>6</integer>
+                  <key>y</key>
+                  <integer>375</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>6</integer>
+                  <key>y</key>
+                  <integer>279</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>399</integer>
+                  <key>y</key>
+                  <integer>279</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>399</integer>
+                  <key>y</key>
+                  <integer>375</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Dcroat</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>746</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

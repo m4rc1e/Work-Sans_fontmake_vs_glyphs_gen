@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+  <advance width="854"/>
+  <unicode hex="004D"/>
+  <anchor x="427" y="0" name="bottom"/>
+  <anchor x="453" y="0" name="bottomC"/>
+  <anchor x="746" y="0" name="ogonek"/>
+  <anchor x="427" y="660" name="top"/>
+  <outline>
+    <contour>
+      <point x="623" y="660" type="line"/>
+      <point x="479" y="258" type="line"/>
+      <point x="428" y="94" type="line"/>
+      <point x="426" y="94" type="line"/>
+      <point x="376" y="259" type="line"/>
+      <point x="231" y="660" type="line"/>
+      <point x="108" y="660" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="415" type="line"/>
+      <point x="175" y="589" type="line"/>
+      <point x="176" y="589" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="678" y="589" type="line"/>
+      <point x="679" y="589" type="line"/>
+      <point x="670" y="415" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="746" y="660" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 07:58:10</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="florin.tf" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="306" y="584" type="curve" smooth="yes"/>
+      <point x="206" y="31" type="line" smooth="yes"/>
+      <point x="196" y="-27"/>
+      <point x="166" y="-55"/>
+      <point x="115" y="-55" type="curve" smooth="yes"/>
+      <point x="84" y="-55"/>
+      <point x="60" y="-48"/>
+      <point x="37" y="-32" type="curve"/>
+      <point x="24" y="-104" type="line"/>
+      <point x="57" y="-123"/>
+      <point x="79" y="-128"/>
+      <point x="122" y="-128" type="curve" smooth="yes"/>
+      <point x="213" y="-128"/>
+      <point x="269" y="-76"/>
+      <point x="286" y="23" type="curve" smooth="yes"/>
+      <point x="385" y="576" type="line" smooth="yes"/>
+      <point x="395" y="634"/>
+      <point x="425" y="662"/>
+      <point x="477" y="662" type="curve" smooth="yes"/>
+      <point x="507" y="662"/>
+      <point x="530" y="655"/>
+      <point x="555" y="639" type="curve"/>
+      <point x="566" y="711" type="line"/>
+      <point x="534" y="730"/>
+      <point x="512" y="735"/>
+      <point x="469" y="735" type="curve" smooth="yes"/>
+      <point x="379" y="735"/>
+      <point x="324" y="684"/>
+    </contour>
+    <contour>
+      <point x="103" y="400" type="line"/>
+      <point x="103" y="331" type="line"/>
+      <point x="528" y="331" type="line"/>
+      <point x="528" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

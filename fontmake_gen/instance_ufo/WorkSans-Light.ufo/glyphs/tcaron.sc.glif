@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron.sc" format="2">
+  <advance width="521"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="261" y="560" name="top"/>
+  <anchor x="286" y="0" name="ogonek"/>
+  <anchor x="243" y="277" name="center"/>
+  <anchor x="280" y="0" name="bottomC"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="caroncmb.cap" xOffset="261" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

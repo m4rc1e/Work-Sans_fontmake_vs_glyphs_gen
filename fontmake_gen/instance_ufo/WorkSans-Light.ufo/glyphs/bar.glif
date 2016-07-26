@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="207"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="82" y="730" type="line"/>
+      <point x="82" y="-168" type="line"/>
+      <point x="126" y="-168" type="line"/>
+      <point x="126" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 0}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{0, 1}</string>
+          <key>target</key>
+          <string>{0, 2}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

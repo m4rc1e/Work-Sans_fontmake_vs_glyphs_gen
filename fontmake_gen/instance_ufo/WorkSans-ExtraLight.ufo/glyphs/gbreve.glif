@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbreve" format="2">
+  <advance width="503"/>
+  <unicode hex="011F"/>
+  <outline>
+    <contour>
+      <point x="378" y="468" type="curve"/>
+      <point x="398" y="460" type="line"/>
+      <point x="398" y="526"/>
+      <point x="435" y="568"/>
+      <point x="503" y="568" type="curve"/>
+      <point x="495" y="592" type="line"/>
+      <point x="424" y="592"/>
+      <point x="378" y="544"/>
+    </contour>
+    <component base="gbase" xOffset="-14"/>
+    <component base="breve" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 7}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

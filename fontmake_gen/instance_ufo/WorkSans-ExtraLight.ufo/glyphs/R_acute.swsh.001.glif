@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute.swsh.001" format="2">
+  <advance width="668"/>
+  <anchor x="298" y="660" name="top"/>
+  <anchor x="656" y="-94" name="ogonek"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="659" y="-92" name="bottomC"/>
+  <outline>
+    <component base="R.swsh.001"/>
+    <component base="acutecmb.cap" xOffset="298"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

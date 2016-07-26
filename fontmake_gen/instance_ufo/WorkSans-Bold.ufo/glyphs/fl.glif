@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="2">
+  <advance width="742"/>
+  <unicode hex="FB02"/>
+  <anchor x="265" y="0" name="ogonek_1"/>
+  <anchor x="688" y="0" name="ogonek_2"/>
+  <anchor x="180" y="0" name="bottomC_1"/>
+  <anchor x="628" y="0" name="bottomC_2"/>
+  <anchor x="180" y="0" name="bottom_1"/>
+  <anchor x="605" y="0" name="bottom_2"/>
+  <anchor x="704" y="712" name="topright"/>
+  <anchor x="254" y="712" name="top_1"/>
+  <anchor x="553" y="712" name="top_2"/>
+  <anchor x="709" y="353" name="center"/>
+  <outline>
+    <component base="f"/>
+    <component base="l" xOffset="415"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

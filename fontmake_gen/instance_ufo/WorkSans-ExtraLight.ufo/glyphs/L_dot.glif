@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="2">
+  <advance width="573"/>
+  <unicode hex="013F"/>
+  <anchor x="465" y="336" name="center"/>
+  <anchor x="337" y="0" name="bottomC"/>
+  <anchor x="115" y="660" name="top"/>
+  <anchor x="337" y="0" name="bottom"/>
+  <anchor x="268" y="700" name="topright"/>
+  <anchor x="538" y="0" name="ogonek"/>
+  <outline>
+    <component base="L"/>
+    <component base="period" xOffset="402" yOffset="312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

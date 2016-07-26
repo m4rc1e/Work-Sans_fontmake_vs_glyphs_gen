@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r" format="2">
+  <advance width="437"/>
+  <unicode hex="0072"/>
+  <anchor x="237" y="500" name="top"/>
+  <anchor x="251" y="0" name="ogonek"/>
+  <anchor x="144" y="0" name="bottom"/>
+  <anchor x="150" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="219" y="250" type="curve"/>
+      <point x="251" y="246" type="line"/>
+      <point x="251" y="313"/>
+      <point x="296" y="346"/>
+      <point x="356" y="346" type="curve" smooth="yes"/>
+      <point x="383" y="346"/>
+      <point x="407" y="340"/>
+      <point x="419" y="331" type="curve"/>
+      <point x="438" y="498" type="line"/>
+      <point x="429" y="504"/>
+      <point x="413" y="510"/>
+      <point x="385" y="510" type="curve" smooth="yes"/>
+      <point x="269" y="510"/>
+      <point x="219" y="402"/>
+    </contour>
+    <contour>
+      <point x="49" y="500" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="251" y="298" type="line"/>
+      <point x="239" y="321" type="line"/>
+      <point x="230" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 21:21:03</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 1}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 13}</string>
+          <key>target</key>
+          <string>{0, 6}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{1, 1}</string>
+          <key>target</key>
+          <string>{1, 2}</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteleft" format="2">
+  <advance width="294"/>
+  <unicode hex="2018"/>
+  <outline>
+    <component base="comma" xScale="-1.0" yScale="-1.0" xOffset="291" yOffset="534"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>15</integer>
+          <key>y</key>
+          <integer>538</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

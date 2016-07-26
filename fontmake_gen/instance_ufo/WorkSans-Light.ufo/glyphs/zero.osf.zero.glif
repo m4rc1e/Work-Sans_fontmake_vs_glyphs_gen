@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.osf.zero" format="2">
+  <advance width="585"/>
+  <outline>
+    <contour>
+      <point x="428" y="499" type="line"/>
+      <point x="396" y="522" type="line"/>
+      <point x="161" y="57" type="line"/>
+      <point x="194" y="38" type="line"/>
+    </contour>
+    <component base="zero.osf"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero.osf</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>zero.osf</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

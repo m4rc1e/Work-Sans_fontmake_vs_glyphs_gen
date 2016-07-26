@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute.swsh" format="2">
+  <advance width="637"/>
+  <anchor x="464" y="342" name="center"/>
+  <anchor x="350" y="0" name="bottomC"/>
+  <anchor x="148" y="660" name="top"/>
+  <anchor x="377" y="0" name="bottom"/>
+  <anchor x="300" y="700" name="topright"/>
+  <anchor x="418" y="0" name="ogonek"/>
+  <outline>
+    <component base="L.swsh"/>
+    <component base="acutecmb.cap" xOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

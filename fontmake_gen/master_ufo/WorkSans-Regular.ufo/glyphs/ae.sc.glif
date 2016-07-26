@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="2">
+  <advance width="813"/>
+  <anchor x="403" y="0" name="bottom"/>
+  <anchor x="403" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="302" y="560" type="line"/>
+      <point x="-10" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="378" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="250" type="line"/>
+      <point x="139" y="181" type="line"/>
+      <point x="403" y="181" type="line"/>
+      <point x="403" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="69" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="768" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="560" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="318" type="line"/>
+      <point x="404" y="249" type="line"/>
+      <point x="682" y="249" type="line"/>
+      <point x="682" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="335" y="560" type="line"/>
+      <point x="302" y="492" type="line"/>
+      <point x="399" y="492" type="line"/>
+      <point x="415" y="491" type="line"/>
+      <point x="755" y="491" type="line"/>
+      <point x="755" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/21 08:07:48</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e.sc</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni013C.ss02" format="2">
+  <advance width="301"/>
+  <anchor x="150" y="0" name="bottomC"/>
+  <anchor x="150" y="706" name="top"/>
+  <anchor x="236" y="8" name="ogonek"/>
+  <anchor x="308" y="706" name="topright"/>
+  <anchor x="150" y="0" name="bottom"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="commaaccent" xOffset="141"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 12:36:20</string>
+    </dict>
+  </lib>
+</glyph>

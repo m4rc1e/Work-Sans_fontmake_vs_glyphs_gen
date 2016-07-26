@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflex.swsh" format="2">
+  <advance width="857"/>
+  <anchor x="558" y="0" name="bottomC"/>
+  <anchor x="558" y="660" name="top"/>
+  <anchor x="805" y="0" name="ogonek"/>
+  <anchor x="558" y="0" name="bottom"/>
+  <outline>
+    <component base="E.swsh"/>
+    <component base="circumflexcmb.cap" xOffset="558"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:46</string>
+    </dict>
+  </lib>
+</glyph>

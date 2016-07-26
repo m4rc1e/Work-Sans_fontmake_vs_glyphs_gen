@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="2">
+  <advance width="485"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="98" y="560" name="top"/>
+  <anchor x="471" y="0" name="ogonek"/>
+  <anchor x="228" y="560" name="topright"/>
+  <anchor x="300" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="90" y="560" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="106" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="14" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="471" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 09:57:30</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i.sc</string>
+    </dict>
+  </lib>
+</glyph>

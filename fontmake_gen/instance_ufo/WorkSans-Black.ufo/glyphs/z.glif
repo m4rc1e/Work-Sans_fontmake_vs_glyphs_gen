@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="2">
+  <advance width="502"/>
+  <unicode hex="007A"/>
+  <anchor x="252" y="0" name="bottomC"/>
+  <anchor x="252" y="500" name="top"/>
+  <anchor x="489" y="0" name="ogonek"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="489" y="0" type="line"/>
+      <point x="489" y="152" type="line"/>
+      <point x="359" y="152" type="line"/>
+      <point x="277" y="150" type="line"/>
+      <point x="326" y="198" type="line"/>
+      <point x="479" y="368" type="line"/>
+      <point x="479" y="500" type="line"/>
+      <point x="22" y="500" type="line"/>
+      <point x="22" y="348" type="line"/>
+      <point x="152" y="348" type="line"/>
+      <point x="225" y="350" type="line"/>
+      <point x="178" y="304" type="line"/>
+      <point x="22" y="132" type="line"/>
+      <point x="22" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 21:48:49</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 13}</string>
+          <key>target</key>
+          <string>{0, 2}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 7}</string>
+          <key>target</key>
+          <string>{0, 8}</string>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>152</integer>
+          <key>y</key>
+          <integer>348</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>359</integer>
+          <key>y</key>
+          <integer>152</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

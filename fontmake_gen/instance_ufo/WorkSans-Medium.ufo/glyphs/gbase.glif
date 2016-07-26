@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gbase" format="2">
+  <advance width="543"/>
+  <outline>
+    <contour>
+      <point x="59" y="108" type="curve" smooth="yes"/>
+      <point x="59" y="27"/>
+      <point x="152" y="-11"/>
+      <point x="225" y="-11" type="curve" smooth="yes"/>
+      <point x="357" y="-11" type="line" smooth="yes"/>
+      <point x="427" y="-11"/>
+      <point x="450" y="-30"/>
+      <point x="450" y="-62" type="curve" smooth="yes"/>
+      <point x="450" y="-101"/>
+      <point x="399" y="-135"/>
+      <point x="292" y="-135" type="curve" smooth="yes"/>
+      <point x="180" y="-135"/>
+      <point x="129" y="-110"/>
+      <point x="129" y="-67" type="curve" smooth="yes"/>
+      <point x="129" y="-32"/>
+      <point x="162" y="-11"/>
+      <point x="226" y="-11" type="curve"/>
+      <point x="197" y="26" type="line"/>
+      <point x="96" y="26"/>
+      <point x="39" y="-20"/>
+      <point x="39" y="-87" type="curve" smooth="yes"/>
+      <point x="39" y="-161"/>
+      <point x="112" y="-215"/>
+      <point x="282" y="-215" type="curve" smooth="yes"/>
+      <point x="432" y="-215"/>
+      <point x="540" y="-154"/>
+      <point x="540" y="-50" type="curve" smooth="yes"/>
+      <point x="540" y="30"/>
+      <point x="479" y="78"/>
+      <point x="374" y="78" type="curve" smooth="yes"/>
+      <point x="234" y="78" type="line" smooth="yes"/>
+      <point x="172" y="78"/>
+      <point x="147" y="97"/>
+      <point x="147" y="129" type="curve" smooth="yes"/>
+      <point x="147" y="161"/>
+      <point x="172" y="182"/>
+      <point x="237" y="184" type="curve"/>
+      <point x="193" y="217" type="line"/>
+      <point x="117" y="213"/>
+      <point x="59" y="172"/>
+    </contour>
+    <contour>
+      <point x="65" y="341" type="curve" smooth="yes"/>
+      <point x="65" y="236"/>
+      <point x="148" y="172"/>
+      <point x="284" y="172" type="curve" smooth="yes"/>
+      <point x="419" y="172"/>
+      <point x="503" y="236"/>
+      <point x="503" y="341" type="curve" smooth="yes"/>
+      <point x="503" y="445"/>
+      <point x="419" y="510"/>
+      <point x="284" y="510" type="curve" smooth="yes"/>
+      <point x="148" y="510"/>
+      <point x="65" y="445"/>
+    </contour>
+    <contour>
+      <point x="395" y="341" type="curve" smooth="yes"/>
+      <point x="395" y="283"/>
+      <point x="354" y="248"/>
+      <point x="284" y="248" type="curve" smooth="yes"/>
+      <point x="213" y="248"/>
+      <point x="172" y="283"/>
+      <point x="172" y="341" type="curve" smooth="yes"/>
+      <point x="172" y="399"/>
+      <point x="213" y="434"/>
+      <point x="284" y="434" type="curve" smooth="yes"/>
+      <point x="354" y="434"/>
+      <point x="395" y="399"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 25}</string>
+          <key>target</key>
+          <string>{0, 12}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 5}</string>
+          <key>target</key>
+          <string>{0, 32}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 11}</string>
+          <key>target</key>
+          <string>{2, 11}</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 5}</string>
+          <key>target</key>
+          <string>{2, 5}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{2, 2}</string>
+          <key>target</key>
+          <string>{1, 8}</string>
+        </dict>
+        <dict>
+          <key>origin</key>
+          <string>{1, 2}</string>
+          <key>target</key>
+          <string>{2, 8}</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

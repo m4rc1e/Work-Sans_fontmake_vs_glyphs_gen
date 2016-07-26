@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0136.sc" format="2">
+  <advance width="699"/>
+  <anchor x="588" y="0" name="bottomC"/>
+  <anchor x="344" y="560" name="top"/>
+  <anchor x="704" y="0" name="ogonek"/>
+  <anchor x="357" y="0" name="bottom"/>
+  <outline>
+    <component base="k.sc"/>
+    <component base="commaaccent" xOffset="357"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:08:09</string>
+    </dict>
+  </lib>
+</glyph>

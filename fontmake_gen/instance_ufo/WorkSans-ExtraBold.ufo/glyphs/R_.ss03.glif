@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R.ss03" format="2">
+  <advance width="696"/>
+  <anchor x="332" y="660" name="top"/>
+  <anchor x="667" y="0" name="ogonek"/>
+  <anchor x="363" y="0" name="bottom"/>
+  <anchor x="568" y="0" name="bottomC"/>
+  <outline>
+    <contour>
+      <point x="261" y="0" type="line"/>
+      <point x="261" y="229" type="line"/>
+      <point x="330" y="229" type="line" smooth="yes"/>
+      <point x="389" y="229"/>
+      <point x="418" y="209"/>
+      <point x="427" y="154" type="curve" smooth="yes"/>
+      <point x="440" y="83"/>
+      <point x="438" y="39"/>
+      <point x="454" y="0" type="curve"/>
+      <point x="667" y="0" type="line"/>
+      <point x="667" y="5" type="line"/>
+      <point x="646" y="43"/>
+      <point x="640" y="89"/>
+      <point x="628" y="173" type="curve" smooth="yes"/>
+      <point x="620" y="221"/>
+      <point x="598" y="264"/>
+      <point x="531" y="281" type="curve"/>
+      <point x="531" y="283" type="line"/>
+      <point x="603" y="304"/>
+      <point x="657" y="350"/>
+      <point x="657" y="452" type="curve" smooth="yes"/>
+      <point x="657" y="586"/>
+      <point x="567" y="660"/>
+      <point x="399" y="660" type="curve" smooth="yes"/>
+      <point x="61" y="660" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="511" type="line"/>
+      <point x="360" y="511" type="line" smooth="yes"/>
+      <point x="426" y="511"/>
+      <point x="452" y="490"/>
+      <point x="452" y="439" type="curve" smooth="yes"/>
+      <point x="452" y="388"/>
+      <point x="426" y="368"/>
+      <point x="360" y="368" type="curve" smooth="yes"/>
+      <point x="261" y="368" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/18 19:48:13</string>
+    </dict>
+  </lib>
+</glyph>

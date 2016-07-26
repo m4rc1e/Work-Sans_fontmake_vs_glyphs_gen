@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2787" format="2">
+  <advance width="910"/>
+  <unicode hex="2787"/>
+  <anchor x="455" y="330" name="indexring"/>
+  <outline>
+    <component base="indexring"/>
+    <component base="eightsuperior" xOffset="263" yOffset="-200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>indexring</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>indexring</string>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <true/>
+        <false/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

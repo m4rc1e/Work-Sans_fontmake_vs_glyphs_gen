@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02C9" format="2">
+  <advance width="500"/>
+  <unicode hex="02C9"/>
+  <outline>
+    <contour>
+      <point x="72" y="666" type="line"/>
+      <point x="72" y="588" type="line"/>
+      <point x="428" y="588" type="line"/>
+      <point x="428" y="666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>macron</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>macron</string>
+    </dict>
+  </lib>
+</glyph>

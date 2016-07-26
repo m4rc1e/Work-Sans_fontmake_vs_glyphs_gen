@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+  <advance width="481"/>
+  <unicode hex="0076"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="249" y="0" name="bottomC"/>
+  <anchor x="249" y="0" name="ogonek"/>
+  <anchor x="241" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="441" y="500" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="459" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="500" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="40" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 21:48:16</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{0, 1}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 0}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

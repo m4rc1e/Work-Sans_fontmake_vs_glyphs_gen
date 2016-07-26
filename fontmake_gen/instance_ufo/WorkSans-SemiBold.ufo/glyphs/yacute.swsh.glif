@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute.swsh" format="2">
+  <advance width="590"/>
+  <anchor x="140" y="-210" name="bottomC"/>
+  <anchor x="292" y="500" name="top"/>
+  <anchor x="182" y="-210" name="ogonek"/>
+  <anchor x="177" y="-210" name="bottom"/>
+  <outline>
+    <component base="y.swsh"/>
+    <component base="acute" xOffset="33"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

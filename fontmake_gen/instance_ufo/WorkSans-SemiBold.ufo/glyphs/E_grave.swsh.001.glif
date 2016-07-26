@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave.swsh.001" format="2">
+  <advance width="800"/>
+  <anchor x="335" y="0" name="bottomC"/>
+  <anchor x="345" y="660" name="top"/>
+  <anchor x="554" y="0" name="ogonek"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <outline>
+    <component base="E.swsh.001"/>
+    <component base="gravecmb.cap" xOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/13 11:04:54</string>
+    </dict>
+  </lib>
+</glyph>

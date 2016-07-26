@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.tf" format="2">
+  <advance width="604"/>
+  <outline>
+    <contour>
+      <point x="62" y="660" type="line"/>
+      <point x="294" y="259" type="line"/>
+      <point x="310" y="259" type="line"/>
+      <point x="542" y="660" type="line"/>
+      <point x="523" y="660" type="line"/>
+      <point x="317" y="297" type="line"/>
+      <point x="303" y="273" type="line"/>
+      <point x="301" y="273" type="line"/>
+      <point x="287" y="297" type="line"/>
+      <point x="81" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="263" type="line"/>
+      <point x="294" y="263" type="line"/>
+      <point x="294" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="133" type="line"/>
+      <point x="517" y="147" type="line"/>
+      <point x="88" y="147" type="line"/>
+      <point x="88" y="133" type="line"/>
+    </contour>
+    <contour>
+      <point x="517" y="256" type="line"/>
+      <point x="517" y="270" type="line"/>
+      <point x="329" y="270" type="line"/>
+      <point x="302" y="270" type="line"/>
+      <point x="276" y="270" type="line"/>
+      <point x="88" y="270" type="line"/>
+      <point x="88" y="256" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:14</string>
+    </dict>
+  </lib>
+</glyph>

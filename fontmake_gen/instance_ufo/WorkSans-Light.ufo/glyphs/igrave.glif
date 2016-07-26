@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="2">
+  <advance width="229"/>
+  <unicode hex="00EC"/>
+  <anchor x="114" y="500" name="top"/>
+  <anchor x="139" y="0" name="ogonek"/>
+  <anchor x="114" y="0" name="bottom"/>
+  <anchor x="118" y="0" name="bottomC"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="grave" xOffset="-133"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/01 13:34:13</string>
+    </dict>
+  </lib>
+</glyph>

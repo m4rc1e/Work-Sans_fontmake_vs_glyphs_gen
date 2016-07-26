@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="2">
+  <advance width="820"/>
+  <unicode hex="0077"/>
+  <anchor x="605" y="0" name="bottomC"/>
+  <anchor x="410" y="500" name="top"/>
+  <anchor x="616" y="0" name="ogonek"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="385" y="500" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="435" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="500" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="89" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="500" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="430" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="731" y="500" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="616" y="0" type="line"/>
+      <point x="787" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/09/19 21:48:23</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 1}</string>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <string>1</string>
+          <key>origin</key>
+          <string>{1, 0}</string>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

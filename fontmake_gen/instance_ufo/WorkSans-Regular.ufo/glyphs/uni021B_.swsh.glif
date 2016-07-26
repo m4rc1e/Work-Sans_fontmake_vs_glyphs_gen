@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni021B.swsh" format="2">
+  <advance width="439"/>
+  <anchor x="164" y="250" name="center"/>
+  <anchor x="300" y="0" name="bottomC"/>
+  <anchor x="171" y="730" name="top"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="292" y="767" name="topright"/>
+  <anchor x="373" y="17" name="ogonek"/>
+  <outline>
+    <component base="t.swsh"/>
+    <component base="commaaccent" xOffset="256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/10/11 11:08:09</string>
+    </dict>
+  </lib>
+</glyph>
