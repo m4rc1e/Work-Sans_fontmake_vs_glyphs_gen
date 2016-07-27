@@ -1,0 +1,14 @@
+F
+======================================================================
+FAIL: test_smart_component_is_decomposed (__main__.TestDecompose)
+fontmake should decompose smart components in the same manner as
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 23, in test_smart_component_is_decomposed
+    'Glyph is a component! it should be decomposed.')
+AssertionError: Glyph is a component! it should be decomposed.
+
+----------------------------------------------------------------------
+Ran 1 test in 0.014s
+
+FAILED (failures=1)
