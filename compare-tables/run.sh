@@ -10,7 +10,7 @@ done
 rm -r instance_ttf/ instance_ufo/ master_ufo
 
 
-fontmake -g '../Work-Sans/sources/Work Sans.glyphs' -o ttf -i --production-name
+fontmake -g '../../Work-Sans/sources/Work Sans.glyphs' -o ttf -i --production-name
 
 # Convert fontmake ttf's into ttx
 for file in ./instance_ttf/*.ttf; do

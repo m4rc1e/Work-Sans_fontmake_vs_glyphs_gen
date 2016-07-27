@@ -1,10 +1,10 @@
-2016-07-26 17:55:59,799 MutatorMath Executing designspace document: master_ufo/WorkSans.designspace
-2016-07-26 17:55:59,852 MutatorMath Writing WorkSans-Thin.ufo to master_ufo/../instance_ufo/WorkSans-Thin.ufo
-2016-07-26 17:56:09,264 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
+2016-07-27 16:53:54,878 MutatorMath Executing designspace document: master_ufo/WorkSans.designspace
+2016-07-27 16:53:54,929 MutatorMath Writing WorkSans-Thin.ufo to master_ufo/../instance_ufo/WorkSans-Thin.ufo
+2016-07-27 16:54:06,684 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:09,265 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
+2016-07-27 16:54:06,684 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -418,12 +418,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:09,611 MutatorMath Writing WorkSans-ExtraLight.ufo to master_ufo/../instance_ufo/WorkSans-ExtraLight.ufo
-2016-07-26 17:56:14,396 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
+2016-07-27 16:54:06,884 MutatorMath Writing WorkSans-ExtraLight.ufo to master_ufo/../instance_ufo/WorkSans-ExtraLight.ufo
+2016-07-27 16:54:11,372 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:14,396 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
+2016-07-27 16:54:11,373 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -837,12 +837,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:14,599 MutatorMath Writing WorkSans-Light.ufo to master_ufo/../instance_ufo/WorkSans-Light.ufo
-2016-07-26 17:56:19,595 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
+2016-07-27 16:54:11,609 MutatorMath Writing WorkSans-Light.ufo to master_ufo/../instance_ufo/WorkSans-Light.ufo
+2016-07-27 16:54:17,148 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:19,596 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
+2016-07-27 16:54:17,148 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -1256,12 +1256,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:19,835 MutatorMath Writing WorkSans-Regular.ufo to master_ufo/../instance_ufo/WorkSans-Regular.ufo
-2016-07-26 17:56:24,688 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
+2016-07-27 16:54:17,372 MutatorMath Writing WorkSans-Regular.ufo to master_ufo/../instance_ufo/WorkSans-Regular.ufo
+2016-07-27 16:54:22,520 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:24,688 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
+2016-07-27 16:54:22,521 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -1675,12 +1675,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:24,950 MutatorMath Writing WorkSans-Medium.ufo to master_ufo/../instance_ufo/WorkSans-Medium.ufo
-2016-07-26 17:56:28,931 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
+2016-07-27 16:54:22,716 MutatorMath Writing WorkSans-Medium.ufo to master_ufo/../instance_ufo/WorkSans-Medium.ufo
+2016-07-27 16:54:27,482 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:28,931 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
+2016-07-27 16:54:27,483 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -2094,12 +2094,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:29,119 MutatorMath Writing WorkSans-SemiBold.ufo to master_ufo/../instance_ufo/WorkSans-SemiBold.ufo
-2016-07-26 17:56:33,819 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
+2016-07-27 16:54:27,718 MutatorMath Writing WorkSans-SemiBold.ufo to master_ufo/../instance_ufo/WorkSans-SemiBold.ufo
+2016-07-27 16:54:33,650 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:33,819 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
+2016-07-27 16:54:33,650 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -2513,12 +2513,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:34,064 MutatorMath Writing WorkSans-Bold.ufo to master_ufo/../instance_ufo/WorkSans-Bold.ufo
-2016-07-26 17:56:39,548 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
+2016-07-27 16:54:33,925 MutatorMath Writing WorkSans-Bold.ufo to master_ufo/../instance_ufo/WorkSans-Bold.ufo
+2016-07-27 16:54:39,328 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:39,548 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
+2016-07-27 16:54:39,329 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -2932,12 +2932,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:39,944 MutatorMath Writing WorkSans-ExtraBold.ufo to master_ufo/../instance_ufo/WorkSans-ExtraBold.ufo
-2016-07-26 17:56:45,356 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
+2016-07-27 16:54:39,534 MutatorMath Writing WorkSans-ExtraBold.ufo to master_ufo/../instance_ufo/WorkSans-ExtraBold.ufo
+2016-07-27 16:54:43,304 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:45,357 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
+2016-07-27 16:54:43,304 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -3351,12 +3351,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:45,590 MutatorMath Writing WorkSans-Black.ufo to master_ufo/../instance_ufo/WorkSans-Black.ufo
-2016-07-26 17:56:50,451 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
+2016-07-27 16:54:43,499 MutatorMath Writing WorkSans-Black.ufo to master_ufo/../instance_ufo/WorkSans-Black.ufo
+2016-07-27 16:54:47,708 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:50,451 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
+2016-07-27 16:54:47,708 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -3770,12 +3770,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:50,662 MutatorMath Writing WorkSans-Thin.ufo to master_ufo/../instance_ufo/WorkSans-Thin.ufo
-2016-07-26 17:56:55,186 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
+2016-07-27 16:54:47,909 MutatorMath Writing WorkSans-Thin.ufo to master_ufo/../instance_ufo/WorkSans-Thin.ufo
+2016-07-27 16:54:52,638 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:56:55,186 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
+2016-07-27 16:54:52,638 MutatorMath ../instance_ufo/WorkSans-Thin.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -4189,12 +4189,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:56:55,393 MutatorMath Writing WorkSans-ExtraLight.ufo to master_ufo/../instance_ufo/WorkSans-ExtraLight.ufo
-2016-07-26 17:57:00,667 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
+2016-07-27 16:54:53,069 MutatorMath Writing WorkSans-ExtraLight.ufo to master_ufo/../instance_ufo/WorkSans-ExtraLight.ufo
+2016-07-27 16:54:56,839 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:00,667 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
+2016-07-27 16:54:56,839 MutatorMath ../instance_ufo/WorkSans-ExtraLight.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -4608,12 +4608,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:00,926 MutatorMath Writing WorkSans-Light.ufo to master_ufo/../instance_ufo/WorkSans-Light.ufo
-2016-07-26 17:57:06,428 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
+2016-07-27 16:54:57,040 MutatorMath Writing WorkSans-Light.ufo to master_ufo/../instance_ufo/WorkSans-Light.ufo
+2016-07-27 16:55:01,372 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:06,428 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
+2016-07-27 16:55:01,373 MutatorMath ../instance_ufo/WorkSans-Light.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -5027,12 +5027,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:06,632 MutatorMath Writing WorkSans-Regular.ufo to master_ufo/../instance_ufo/WorkSans-Regular.ufo
-2016-07-26 17:57:11,439 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
+2016-07-27 16:55:01,596 MutatorMath Writing WorkSans-Regular.ufo to master_ufo/../instance_ufo/WorkSans-Regular.ufo
+2016-07-27 16:55:07,177 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:11,439 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
+2016-07-27 16:55:07,179 MutatorMath ../instance_ufo/WorkSans-Regular.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -5446,12 +5446,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:11,629 MutatorMath Writing WorkSans-Medium.ufo to master_ufo/../instance_ufo/WorkSans-Medium.ufo
-2016-07-26 17:57:16,104 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
+2016-07-27 16:55:07,479 MutatorMath Writing WorkSans-Medium.ufo to master_ufo/../instance_ufo/WorkSans-Medium.ufo
+2016-07-27 16:55:11,422 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:16,104 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
+2016-07-27 16:55:11,422 MutatorMath ../instance_ufo/WorkSans-Medium.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -5865,12 +5865,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:16,300 MutatorMath Writing WorkSans-SemiBold.ufo to master_ufo/../instance_ufo/WorkSans-SemiBold.ufo
-2016-07-26 17:57:20,846 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
+2016-07-27 16:55:11,620 MutatorMath Writing WorkSans-SemiBold.ufo to master_ufo/../instance_ufo/WorkSans-SemiBold.ufo
+2016-07-27 16:55:16,451 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:20,846 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
+2016-07-27 16:55:16,451 MutatorMath ../instance_ufo/WorkSans-SemiBold.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -6284,12 +6284,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:21,066 MutatorMath Writing WorkSans-Bold.ufo to master_ufo/../instance_ufo/WorkSans-Bold.ufo
-2016-07-26 17:57:26,014 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
+2016-07-27 16:55:16,726 MutatorMath Writing WorkSans-Bold.ufo to master_ufo/../instance_ufo/WorkSans-Bold.ufo
+2016-07-27 16:55:21,226 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:26,014 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
+2016-07-27 16:55:21,227 MutatorMath ../instance_ufo/WorkSans-Bold.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -6703,12 +6703,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:26,204 MutatorMath Writing WorkSans-ExtraBold.ufo to master_ufo/../instance_ufo/WorkSans-ExtraBold.ufo
-2016-07-26 17:57:30,305 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
+2016-07-27 16:55:21,515 MutatorMath Writing WorkSans-ExtraBold.ufo to master_ufo/../instance_ufo/WorkSans-ExtraBold.ufo
+2016-07-27 16:55:25,636 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:30,305 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
+2016-07-27 16:55:25,636 MutatorMath ../instance_ufo/WorkSans-ExtraBold.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -7122,12 +7122,12 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:30,510 MutatorMath Writing WorkSans-Black.ufo to master_ufo/../instance_ufo/WorkSans-Black.ufo
-2016-07-26 17:57:35,102 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
+2016-07-27 16:55:25,843 MutatorMath Writing WorkSans-Black.ufo to master_ufo/../instance_ufo/WorkSans-Black.ufo
+2016-07-27 16:55:30,340 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
 Errors calculating 2 glyphs: 
 curvedStemParagraphSignOrnament
 paragraph
-2016-07-26 17:57:35,102 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
+2016-07-27 16:55:30,340 MutatorMath ../instance_ufo/WorkSans-Black.ufo:
 Missing unicodes for 412 glyphs: 
 .notdef
 A.swsh
@@ -7541,4 +7541,4 @@ zero.tf.zero
 zero.tosf
 zero.tosf.zero
 zero.zero
-2016-07-26 17:57:35,357 MutatorMath Done
+2016-07-27 16:55:30,556 MutatorMath Done
