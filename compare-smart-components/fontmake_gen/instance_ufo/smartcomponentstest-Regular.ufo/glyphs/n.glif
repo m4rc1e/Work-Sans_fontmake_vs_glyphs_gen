@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n" format="2">
+  <advance width="574"/>
+  <unicode hex="006E"/>
+  <anchor x="323" y="0" name="bottom"/>
+  <anchor x="293" y="500" name="top"/>
+  <anchor x="495" y="0" name="ogonek"/>
+  <anchor x="487" y="-10" name="connect"/>
+  <anchor x="495" y="0" name="bottomC"/>
+  <outline>
+    <component base="_part.shoulder"/>
+    <component base="_part.stem" xOffset="5" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/27 12:40:43</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_part.shoulder</key>
+	<string>_part.shoulder.glif</string>
+	<key>_part.stem</key>
+	<string>_part.stem.glif</string>
+	<key>m</key>
+	<string>m.glif</string>
+	<key>n</key>
+	<string>n.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
+</dict>
+</plist>

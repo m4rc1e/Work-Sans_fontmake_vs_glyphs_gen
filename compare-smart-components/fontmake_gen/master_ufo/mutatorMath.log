@@ -1,0 +1,7 @@
+2016-07-27 16:59:25,511 MutatorMath Executing designspace document: master_ufo/smartcomponentstest-Regular.designspace
+2016-07-27 16:59:25,513 MutatorMath Writing smartcomponentstest-Regular.ufo to master_ufo/../instance_ufo/smartcomponentstest-Regular.ufo
+2016-07-27 16:59:25,548 MutatorMath ../instance_ufo/smartcomponentstest-Regular.ufo:
+Missing unicodes for 2 glyphs: 
+_part.shoulder
+_part.stem
+2016-07-27 16:59:25,549 MutatorMath Done

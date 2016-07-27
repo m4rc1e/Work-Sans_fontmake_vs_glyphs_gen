@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="2">
+  <advance width="888"/>
+  <unicode hex="006D"/>
+  <anchor x="841" y="0" name="connect"/>
+  <outline>
+    <component base="_part.stem"/>
+    <component base="_part.shoulder" yOffset="10"/>
+    <component base="_part.shoulder" xOffset="354" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/27 12:44:09</string>
+    </dict>
+  </lib>
+</glyph>

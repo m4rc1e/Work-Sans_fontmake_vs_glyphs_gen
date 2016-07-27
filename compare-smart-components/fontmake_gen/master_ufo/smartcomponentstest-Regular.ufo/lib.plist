@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>DAA208F3-B99C-41DB-ABC3-BA142852BF62</string>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>m</string>
+		<string>n</string>
+		<string>space</string>
+		<string>_part.shoulder</string>
+		<string>_part.stem</string>
+	</array>
+</dict>
+</plist>

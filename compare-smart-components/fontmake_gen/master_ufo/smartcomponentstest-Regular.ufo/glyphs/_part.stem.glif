@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.stem" format="2">
+  <advance width="574"/>
+  <anchor x="101" y="0" name="connect"/>
+  <outline>
+    <contour>
+      <point x="85" y="500" type="line"/>
+      <point x="85" y="301" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="101" y="292" type="line"/>
+      <point x="101" y="301" type="line"/>
+      <point x="101" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/27 12:38:27</string>
+    </dict>
+  </lib>
+</glyph>
